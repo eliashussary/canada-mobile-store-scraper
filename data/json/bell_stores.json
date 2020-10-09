@@ -1,0 +1,1922 @@
+{
+  "http://storelocator_bell_ca/bellca/en/AB/Airdrie/Bell-Sierra-Springs/BE461": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Airdrie/Bell-Sierra-Springs/BE461",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Airdrie",
+        "addressRegion": "AB",
+        "postalCode": "T4B3S6",
+        "streetAddress": "2797 Main St S"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1800"
+      ],
+      "phone": "403 980-9220",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Airdrie/The-Source/Z5896": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Airdrie/The-Source/Z5896",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Airdrie",
+        "addressRegion": "AB",
+        "postalCode": "T4B3K3",
+        "streetAddress": "505 Main St S"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 945-3199",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Airdrie/Visions-Electronics/VIS02": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Airdrie/Visions-Electronics/VIS02",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Airdrie",
+        "addressRegion": "AB",
+        "postalCode": "T4B3G6",
+        "streetAddress": "294 Sierra Springs Dr SE"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "403 912-4101",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Banff/The-Source/Z5857": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Banff/The-Source/Z5857",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Banff",
+        "addressRegion": "AB",
+        "postalCode": "T1L1C1",
+        "streetAddress": "317 Banff Ave"
+      },
+      "hours": [
+        "Su 1100-1900",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-2000",
+        "Sa 1000-2000"
+      ],
+      "phone": "403 760-7627",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Beaumont/Phone-Garage-Beaumont/BE573": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Beaumont/Phone-Garage-Beaumont/BE573",
+    "store": {
+      "name": "Phone Garage Beaumont",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Beaumont",
+        "addressRegion": "AB",
+        "postalCode": "T4X0H5",
+        "streetAddress": "6002 29 Ave"
+      },
+      "hours": [
+        "Su 1100-1400",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "780 929-6860",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Bonnyville/The-Source/Z5760": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Bonnyville/The-Source/Z5760",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bonnyville",
+        "addressRegion": "AB",
+        "postalCode": "T9N1X7",
+        "streetAddress": "5201 50 Ave"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1900",
+        "Th 1100-2000",
+        "Fr 1100-2000",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 826-4308",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Brooks/The-Source/Z5818": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Brooks/The-Source/Z5818",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Brooks",
+        "addressRegion": "AB",
+        "postalCode": "T1R1B8",
+        "streetAddress": "322 8 Ave"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "403 362-6427",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Beacon-Hill-Centre/BE086": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Beacon-Hill-Centre/BE086",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3R0A1",
+        "streetAddress": "11714 Sarcee Trail NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 516-0347",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Chinook-Center/BC712": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Chinook-Center/BC712",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2H0K8",
+        "streetAddress": "6455 Macleod Trail SW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 252-9068",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Chinook-Mall-Kiosk/BC869": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Chinook-Mall-Kiosk/BC869",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2H0K8",
+        "streetAddress": "6455 Macleod Trail SW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 410-7694",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Core-Shopping-Centre/BC737": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Core-Shopping-Centre/BC737",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2P4K8",
+        "streetAddress": "751 3 St SW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1700",
+        "Tu 1100-1700",
+        "We 1100-1700",
+        "Th 1100-1700",
+        "Fr 1100-1700",
+        "Sa 1100-1700"
+      ],
+      "phone": "403 693-0051",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Crowfoot-Crossing/BE087": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Crowfoot-Crossing/BE087",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3G4J8",
+        "streetAddress": "151 Crowfoot Terrace NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 374-0258",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Deerfoot-Meadows/BC860": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Deerfoot-Meadows/BC860",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2H3B5",
+        "streetAddress": "8180 11 St SE"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 410-7260",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Harvest-Hills-Crossing/BE085": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Harvest-Hills-Crossing/BE085",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3K0B3",
+        "streetAddress": "9650 Harvest Hills Blvd NE"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1830",
+        "Tu 1100-1830",
+        "We 1100-1830",
+        "Th 1100-1830",
+        "Fr 1100-1830",
+        "Sa 1100-1700"
+      ],
+      "phone": "403 532-3934",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Market-Mall-Kiosk/BC724": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Market-Mall-Kiosk/BC724",
+    "store": {
+      "name": "Bell - kiosk",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3A0E2",
+        "streetAddress": "3625 Shaganappi Trail NW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 247-1102",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Market-Mall/BC828": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Market-Mall/BC828",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3A0E2",
+        "streetAddress": "3625 Shaganappi Trail NW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 202-5729",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Memorial/BE178": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Memorial/BE178",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2A2K2",
+        "streetAddress": "3800 Memorial Dr NE"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 441-5402",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Saddletowne-Circle/BE065": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Saddletowne-Circle/BE065",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3J0C9",
+        "streetAddress": "216 Saddletowne Circle NE"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 568-5566",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Seton/BE362": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Seton/BE362",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3M1T4",
+        "streetAddress": "19489 Seton Cres SE"
+      },
+      "hours": [
+        "Su 1100-1600",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1600"
+      ],
+      "phone": "403 805-1111",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Shawnessy-Village/BC870": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Shawnessy-Village/BC870",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2Y2Z3",
+        "streetAddress": "70 Shawville Blvd SE"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 873-1015",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Southcentre-Mall/BC731": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Southcentre-Mall/BC731",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2J3V1",
+        "streetAddress": "100 Anderson Rd SE"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 225-9500",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Southpointe-Shopping-Centre/BE088": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Southpointe-Shopping-Centre/BE088",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2Z0C2",
+        "streetAddress": "4600 130 Ave SE"
+      },
+      "hours": [
+        "Su 1100-1600",
+        "Mo 0930-2000",
+        "Tu 0930-2000",
+        "We 0930-2000",
+        "Th 0930-2000",
+        "Fr 0930-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "403 726-9081",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Sunridge-Mall-Kiosk/BE107": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Sunridge-Mall-Kiosk/BE107",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T1Y5T4",
+        "streetAddress": "2525 36 St NE"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "403 293-3549",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Sunridge-Mall/BC739": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Sunridge-Mall/BC739",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T1Y5T4",
+        "streetAddress": "2525 36 St NE ,#TK24"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1200-1700",
+        "Tu 1200-1700",
+        "We 1200-1700",
+        "Th 1200-1700",
+        "Fr 1200-1700",
+        "Sa 1200-1700"
+      ],
+      "phone": "403 285-4527",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell-Westbrook-Mall-Kiosk/BC851": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell-Westbrook-Mall-Kiosk/BC851",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3C1S2",
+        "streetAddress": "1200 37 St SW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 355-2770",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Bell/BE569": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Bell/BE569",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2N1M7",
+        "streetAddress": "1632 14 Ave NW"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "403 210-1932",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Eurotech-Systems/53U60": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Eurotech-Systems/53U60",
+    "store": {
+      "name": "Eurotech Systems",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3H4R5",
+        "streetAddress": "1851 Sirocco Dr SW"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "403 685-0706",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Feel-Like-Talking-Connections/BE472": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Feel-Like-Talking-Connections/BE472",
+    "store": {
+      "name": "Feel Like Talking Connections",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3J3Z2",
+        "streetAddress": "4818 Westwinds Dr NE"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1830",
+        "Tu 1100-1830",
+        "We 1100-1830",
+        "Th 1100-1830",
+        "Fr 1100-1830",
+        "Sa 1100-1700"
+      ],
+      "phone": "403 274-5464",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Openbox/53U62": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Openbox/53U62",
+    "store": {
+      "name": "Openbox",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T1Y7J6",
+        "streetAddress": "2555 32 St"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "403 889-4501",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Speed-Wireless/BE331": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Speed-Wireless/BE331",
+    "store": {
+      "name": "Speed Wireless",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2A7X6",
+        "streetAddress": "999 36 St NE"
+      },
+      "hours": [
+        "Su 1000-1800",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "403 235-2258",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5830": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5830",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2J3V1",
+        "streetAddress": "100 Anderson Rd SE"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 225-6506",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5836": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5836",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3A0E2",
+        "streetAddress": "3625 Shaganappi Trail NW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 288-0860",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5844": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5844",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2A2K2",
+        "streetAddress": "3800 Memorial Dr NE"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 272-3088",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5845": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5845",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2H0K8",
+        "streetAddress": "6455 Macleod Trail SW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 212-1169",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5873": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5873",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2N1M7",
+        "streetAddress": "1632 14 Ave NW"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 220-0722",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5874": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5874",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T1Y5T4",
+        "streetAddress": "2525 36 St NE"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 293-9708",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5875": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5875",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2Y3S4",
+        "streetAddress": "350 Shawville Blvd SE"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 256-2368",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/The-Source/Z5892": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/The-Source/Z5892",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2P4K8",
+        "streetAddress": "751 3 St SW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 264-4325",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Visions-Electronics/VIS04": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Visions-Electronics/VIS04",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3G2T3",
+        "streetAddress": "46 Crowfoot Circ NW"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "403 208-2487",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Visions-Electronics/VIS05": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Visions-Electronics/VIS05",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T1Y5J4",
+        "streetAddress": "2930 32 Ave NE"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "403 250-9107",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Visions-Electronics/VIS06": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Visions-Electronics/VIS06",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T2J3K9",
+        "streetAddress": "9950 Macleod Trail S"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "403 255-2255",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Calgary/Visions-Electronics/VIS07": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Calgary/Visions-Electronics/VIS07",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Calgary",
+        "addressRegion": "AB",
+        "postalCode": "T3E6N1",
+        "streetAddress": "3915 51 St SW, Bay 60"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "403 240-2296",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Camrose/Elite-Mobility/BE307": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Camrose/Elite-Mobility/BE307",
+    "store": {
+      "name": "Elite Mobility",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Camrose",
+        "addressRegion": "AB",
+        "postalCode": "T4V0K3",
+        "streetAddress": "6032 48 Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1430",
+        "Tu 0930-1430",
+        "We 0930-1430",
+        "Th 0930-1430",
+        "Fr 0930-1430",
+        "Sa 1000-1500"
+      ],
+      "phone": "780 679-0056",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Camrose/The-Source/Z5885": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Camrose/The-Source/Z5885",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Camrose",
+        "addressRegion": "AB",
+        "postalCode": "T4V4T1",
+        "streetAddress": "6800 48 Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 672-3352",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Canmore/Bell-Bow-Valley-Trail/BC969": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Canmore/Bell-Bow-Valley-Trail/BC969",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Canmore",
+        "addressRegion": "AB",
+        "postalCode": "T1W1N6",
+        "streetAddress": "802 Bow Valley Trail"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa -"
+      ],
+      "phone": "403 678-5558",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Canmore/The-Source/Z5888": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Canmore/The-Source/Z5888",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Canmore",
+        "addressRegion": "AB",
+        "postalCode": "T1W1P4",
+        "streetAddress": "1140 Railway Ave"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "403 678-0473",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Chestermere/CellNet/BE430": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Chestermere/CellNet/BE430",
+    "store": {
+      "name": "CellNet",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chestermere",
+        "addressRegion": "AB",
+        "postalCode": "T1X0A9",
+        "streetAddress": "100 Marina Dr"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "403 770-1883",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Claresholm/The-Source/ZT816": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Claresholm/The-Source/ZT816",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Claresholm",
+        "addressRegion": "AB",
+        "postalCode": "T0L0T0",
+        "streetAddress": "4080 3 St E"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "403 625-2501",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Cochrane/The-Source/Z5713": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Cochrane/The-Source/Z5713",
+    "store": {
+      "name": "The Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cochrane",
+        "addressRegion": "AB",
+        "postalCode": "T4C0W5",
+        "streetAddress": "25 Quarry St W Bay 17"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "403 932-1188",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Cold-Lake/TNT-Digital/BE594": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Cold-Lake/TNT-Digital/BE594",
+    "store": {
+      "name": "TNT Digital",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cold Lake",
+        "addressRegion": "AB",
+        "postalCode": "T9M1P3",
+        "streetAddress": "4910-50 Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa -"
+      ],
+      "phone": "780 594-0887",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Drayton-Valley/Go-West-Wireless/BE308": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Drayton-Valley/Go-West-Wireless/BE308",
+    "store": {
+      "name": "Go West Wireless",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Drayton Valley",
+        "addressRegion": "AB",
+        "postalCode": "T7A1S4",
+        "streetAddress": "5004 50 Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa -"
+      ],
+      "phone": "780 515-9090",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Drumheller/Reality-Bytes/53N45": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Drumheller/Reality-Bytes/53N45",
+    "store": {
+      "name": "Reality Bytes",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Drumheller",
+        "addressRegion": "AB",
+        "postalCode": "T0J0Y0",
+        "streetAddress": "155 3 Ave W"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa -"
+      ],
+      "phone": "403 823-2983",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-100-Avenue-North-West/BE254": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-100-Avenue-North-West/BE254",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5S2B8",
+        "streetAddress": "17551 100 Ave NW"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1730"
+      ],
+      "phone": "780 498-0069",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-28-Avenue/BC931": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-28-Avenue/BC931",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6L7B9",
+        "streetAddress": "5511 23 Ave"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 465-3400",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Bonnie-Doon/BC932": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Bonnie-Doon/BC932",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6C4E3",
+        "streetAddress": "82nd Ave & 83rd St"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "780 469-5560",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Capilano-Mall/BE252": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Capilano-Mall/BE252",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6E4E3",
+        "streetAddress": "5004 98 Ave NW"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1730"
+      ],
+      "phone": "780 469-3880",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Currents-of-Windermere/BE368": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Currents-of-Windermere/BE368",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6W0L9",
+        "streetAddress": "5164 Windermere Blvd"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1830",
+        "Tu 1000-1830",
+        "We 1000-1830",
+        "Th 1000-1830",
+        "Fr 1000-1830",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 391-1701",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Edmonton-City-Centre/BC732": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Edmonton-City-Centre/BC732",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5J4B7",
+        "streetAddress": "10200 102 Ave NW"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "780 421-9630",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Kingsway-Garden-Mall-1/BC730": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Kingsway-Garden-Mall-1/BC730",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5G3A6",
+        "streetAddress": "1 Kingsway Garden Mall NW"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1000-1800"
+      ],
+      "phone": "780 378-0330",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Londonderry-Mall/BC729": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Londonderry-Mall/BC729",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5C3C8",
+        "streetAddress": "137 Ave NW and 66 St"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1730"
+      ],
+      "phone": "780 473-0141",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Mill-Woods-Town-Centre-Kiosk/BC744": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Mill-Woods-Town-Centre-Kiosk/BC744",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6K4B4",
+        "streetAddress": "2331 66 St NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 0930-1730"
+      ],
+      "phone": "780 485-3566",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Namao-Centre-South/BE466": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Namao-Centre-South/BE466",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5X0C7",
+        "streetAddress": "15755 97 St NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 637-8688",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Northgate-Shopping-Mall/BE255": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Northgate-Shopping-Mall/BE255",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5E5R8",
+        "streetAddress": "9499 137 Ave NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1730"
+      ],
+      "phone": "780 478-9815",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Riocan-Meadows/BE380": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Riocan-Meadows/BE380",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6T0C2",
+        "streetAddress": "3918 17 St NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 465-3666",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-South-Edmonton-Common/BC815": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-South-Edmonton-Common/BC815",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6N1L5",
+        "streetAddress": "1927 98 St NW"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "780 440-3179",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Southgate-Mall-Kiosk/BC743": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Southgate-Mall-Kiosk/BC743",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T6H4M6",
+        "streetAddress": "5015 111 St NW"
+      },
+      "hours": [
+        "Su 1200-1800",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "780 409-9994",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/AB/Edmonton/Bell-Stony-Plain-and-184-Street/BC978": {
+    "url": "http://storelocator.bell.ca/bellca/en/AB/Edmonton/Bell-Stony-Plain-and-184-Street/BC978",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Edmonton",
+        "addressRegion": "AB",
+        "postalCode": "T5S2X6",
+        "streetAddress": "18559 Stony Plain Rd"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "780 644-9930",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  }
+}

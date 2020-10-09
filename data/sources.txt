@@ -1,0 +1,21 @@
+Bell: 
+http://storelocator.bell.ca/sitemap.xml
+
+Telus:
+https://stores.telus.com/sitemap.xml
+
+Rogers:
+https://www.rogers.com/sitemap_rog_stores.xml
+
+Fido:
+http://www.fido.ca/sitemap_fido_stores.xml
+
+Loblaws:
+https://www.themobileshop.ca/page-data/en/locations/page-data.json
+
+Walmart: 
+https://www.walmart.ca/sitemap-stores-en.xml
+
+The Source:
+// have to get location sitemap from here
+https://www.thesource.ca/en-ca/sitemap.xml
