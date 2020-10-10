@@ -19714,5 +19714,6611 @@
         "Residential: Internet + TV + Phone"
       ]
     }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Joliette/sonxplus/SX014": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Joliette/sonxplus/SX014",
+    "store": {
+      "name": "sonxplus",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Joliette",
+        "addressRegion": "QC",
+        "postalCode": "J6E2V5",
+        "streetAddress": "58 rue Baby"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 759-3204",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Jonquiere/Bell/BE510": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Jonquiere/Bell/BE510",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jonquière",
+        "addressRegion": "QC",
+        "postalCode": "G7X8L3",
+        "streetAddress": "3460 boul St François"
+      },
+      "hours": [
+        "Su 1200-1600",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1600"
+      ],
+      "phone": "418 695-0238",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Jonquiere/La-Source/Z5685": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Jonquiere/La-Source/Z5685",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Jonquière",
+        "addressRegion": "QC",
+        "postalCode": "G7S5Y5",
+        "streetAddress": "2404 boul René-Lévesque"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 542-7209",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Kirkland/IntelCell/BE600": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Kirkland/IntelCell/BE600",
+    "store": {
+      "name": "IntelCell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kirkland",
+        "addressRegion": "QC",
+        "postalCode": "H9H4M2",
+        "streetAddress": "3701 St Charles"
+      },
+      "hours": [
+        "Su 1000-1800",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "514 974-6835",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Baie/Bell-Bagot/BE064": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Baie/Bell-Bagot/BE064",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Baie",
+        "addressRegion": "QC",
+        "postalCode": "G7B2N6",
+        "streetAddress": "931 rue Bagot"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1900",
+        "Fr 0900-1900",
+        "Sa -"
+      ],
+      "phone": "418 544-2020",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Malbaie/Communication-MEG/SP007": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Malbaie/Communication-MEG/SP007",
+    "store": {
+      "name": "Communication MEG",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Malbaie",
+        "addressRegion": "QC",
+        "postalCode": "G5A1H4",
+        "streetAddress": "446 rue St-Etienne"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1900",
+        "Fr 0930-1900",
+        "Sa 0930-1600"
+      ],
+      "phone": "418 665-2938",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Malbaie/La-Malbaie-Communications/35Q40": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Malbaie/La-Malbaie-Communications/35Q40",
+    "store": {
+      "name": "La Malbaie Communications",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Malbaie",
+        "addressRegion": "QC",
+        "postalCode": "G5A1H9",
+        "streetAddress": "375 boul de Comporté"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1900",
+        "Fr 0930-1900",
+        "Sa 0930-1700"
+      ],
+      "phone": "418 665-4111",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Malbaie/La-Source/ZC510": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Malbaie/La-Source/ZC510",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Malbaie",
+        "addressRegion": "QC",
+        "postalCode": "G5A1H5",
+        "streetAddress": "505 rue St-Etienne"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 665-6492",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Pocatiere/La-Source/Z5436": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Pocatiere/La-Source/Z5436",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Pocatière",
+        "addressRegion": "QC",
+        "postalCode": "G0R1Z0",
+        "streetAddress": "161 Rte 230 O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 856-9737",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Prairie/La-Source/Z5515": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Prairie/La-Source/Z5515",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Prairie",
+        "addressRegion": "QC",
+        "postalCode": "J5R1W7",
+        "streetAddress": "979 boul Taschereau"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 659-2608",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Sarre/Centre-Hi-Fi/BN069": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Sarre/Centre-Hi-Fi/BN069",
+    "store": {
+      "name": "Centre Hi-Fi",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Sarre",
+        "addressRegion": "QC",
+        "postalCode": "J9Z1K7",
+        "streetAddress": "31 5e av E"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2000",
+        "Fr 0930-1730",
+        "Sa 0930-1600"
+      ],
+      "phone": "819 333-6710",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Sarre/Communications-Pomerleau/BN081": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Sarre/Communications-Pomerleau/BN081",
+    "store": {
+      "name": "Communications Pomerleau",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Sarre",
+        "addressRegion": "QC",
+        "postalCode": "J9Z2H1",
+        "streetAddress": "289 2e Rue E"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0800-1730",
+        "Tu 0800-1730",
+        "We 0800-1730",
+        "Th 0800-1730",
+        "Fr 0800-2000",
+        "Sa -"
+      ],
+      "phone": "819 333-5377",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/La-Tuque/Berthiaume-Berube-Communications/BN075": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/La-Tuque/Berthiaume-Berube-Communications/BN075",
+    "store": {
+      "name": "Berthiaume Bérubé Communications",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "La Tuque",
+        "addressRegion": "QC",
+        "postalCode": "G9X2Y7",
+        "streetAddress": "570 rue St-Antoine"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1900",
+        "Fr 0900-1900",
+        "Sa 1000-1600"
+      ],
+      "phone": "819 523-5005",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/LaSalle/Bell-Carrefour-Angrignon/BC501": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/LaSalle/Bell-Carrefour-Angrignon/BC501",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "LaSalle",
+        "addressRegion": "QC",
+        "postalCode": "H8N1X1",
+        "streetAddress": "7077 boul Newman"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "514 364-3071",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/LaSalle/La-Source/Z5429": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/LaSalle/La-Source/Z5429",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "LaSalle",
+        "addressRegion": "QC",
+        "postalCode": "H8N1X1",
+        "streetAddress": "7077 boul Newman"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 365-4641",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Lac-Megantic/stereo-and/SX041": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Lac-Megantic/stereo-and/SX041",
+    "store": {
+      "name": "stereo +",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lac-Mégantic",
+        "addressRegion": "QC",
+        "postalCode": "G6B1C7",
+        "streetAddress": "4748 rue Laval"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 0900-1200"
+      ],
+      "phone": "819 583-5194",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Lachine/La-Source/Z5449": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Lachine/La-Source/Z5449",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lachine",
+        "addressRegion": "QC",
+        "postalCode": "H8S1X8",
+        "streetAddress": "2920 rue Remembrance"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 637-0513",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Lachute/Centre-Hi-Fi/CH063": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Lachute/Centre-Hi-Fi/CH063",
+    "store": {
+      "name": "Centre Hi-Fi",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lachute",
+        "addressRegion": "QC",
+        "postalCode": "J8H4A6",
+        "streetAddress": "505 av Bethany"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1900",
+        "Fr 0930-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 566-0294",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/Bell-Carrefour-Laval-1/35A20": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/Bell-Carrefour-Laval-1/35A20",
+    "store": {
+      "name": "Bell (kiosque)",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7T1C8",
+        "streetAddress": "3035 boul le Carrefour"
+      },
+      "hours": [
+        "Su 0900-1700",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 978-7133",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/Bell-Carrefour-Laval-2/BC360": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/Bell-Carrefour-Laval-2/BC360",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7T1C8",
+        "streetAddress": "3035 boul le Carrefour"
+      },
+      "hours": [
+        "Su 0900-1700",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 681-3344",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/Bell-Centre-Laval/BE060": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/Bell-Centre-Laval/BE060",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7S1Y9",
+        "streetAddress": "1600 boul Le Corbusier"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 680-2355",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/Bell-Saint-Martin-Ouest/35485": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/Bell-Saint-Martin-Ouest/35485",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7S1N2",
+        "streetAddress": "1655 boul St-Martin O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "450 680-1010",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/Bell-SmartCentres-Laval-West/BE301": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/Bell-SmartCentres-Laval-West/BE301",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7X3S9",
+        "streetAddress": "916 Autoroute Chomedey O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "450 689-3234",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/IntelCell/BE599": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/IntelCell/BE599",
+    "store": {
+      "name": "IntelCell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7E0A4",
+        "streetAddress": "5805 boul Robert-Bourassa"
+      },
+      "hours": [
+        "Su 1000-1800",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "514 974-6835",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/La-Source/Z5407": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/La-Source/Z5407",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7S1Y9",
+        "streetAddress": "1600 boul Le Corbusier"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 682-0324",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/La-Source/Z5412": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/La-Source/Z5412",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7X3S9",
+        "streetAddress": "830 Autoroute Chomedey O"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 689-7905",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/La-Source/Z5421": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/La-Source/Z5421",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7T1C8",
+        "streetAddress": "3035 boul le Carrefour"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "450 688-9024",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Laval/La-Source/Z5460": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Laval/La-Source/Z5460",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Laval",
+        "addressRegion": "QC",
+        "postalCode": "H7E0A4",
+        "streetAddress": "5485 boul Robert-Bourassa"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 661-5684",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Lavaltrie/La-Source/Z5484": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Lavaltrie/La-Source/Z5484",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lavaltrie",
+        "addressRegion": "QC",
+        "postalCode": "J5T2H5",
+        "streetAddress": "89F ch de Lavaltrie"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 586-5450",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Lebel-sur-Quevillon/Depanneur-du-Boulevard/BN060": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Lebel-sur-Quevillon/Depanneur-du-Boulevard/BN060",
+    "store": {
+      "name": "Dépanneur du Boulevard",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lebel-sur-Quévillon",
+        "addressRegion": "QC",
+        "postalCode": "J0Y1X0",
+        "streetAddress": "1004 boul Quevillon"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu 0900-1600",
+        "We 0900-1600",
+        "Th 0900-1600",
+        "Fr 0900-1600",
+        "Sa -"
+      ],
+      "phone": "819 755-4244",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Levis/Bell-RioCan-MegaCentre-Rive-Sud/BC922": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Levis/Bell-RioCan-MegaCentre-Rive-Sud/BC922",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lévis",
+        "addressRegion": "QC",
+        "postalCode": "G6W0B1",
+        "streetAddress": "920 boul Guillaume-Couture"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0830-1730",
+        "Tu 0830-1730",
+        "We 0830-1730",
+        "Th 0830-2100",
+        "Fr 0830-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 834-6033",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Levis/Bell-Saint-Redempteur/BE192": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Levis/Bell-Saint-Redempteur/BE192",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lévis",
+        "addressRegion": "QC",
+        "postalCode": "G7A2P6",
+        "streetAddress": "1810 rte des Rivières"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1700",
+        "Fr 0930-1700",
+        "Sa 0930-1700"
+      ],
+      "phone": "418 831-2355",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Levis/Bell/BE578": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Levis/Bell/BE578",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lévis",
+        "addressRegion": "QC",
+        "postalCode": "G6V6Y8",
+        "streetAddress": "1200 boul Alphonse-Desjardins"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1730",
+        "Tu 1100-1730",
+        "We 1100-1730",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 833-3848",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Levis/La-Source/Z5492": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Levis/La-Source/Z5492",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lévis",
+        "addressRegion": "QC",
+        "postalCode": "G6W8A7",
+        "streetAddress": "675 rue de la Concorde"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 1000-1800"
+      ],
+      "phone": "418 839-9460",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Levis/La-Source/Z5662": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Levis/La-Source/Z5662",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lévis",
+        "addressRegion": "QC",
+        "postalCode": "G6V6Y8",
+        "streetAddress": "1200 boul Alphonse-Desjardins"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1800"
+      ],
+      "phone": "418 835-2590",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Longueuil/Bell-Place-Longueuil/BE433": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Longueuil/Bell-Place-Longueuil/BE433",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Longueuil",
+        "addressRegion": "QC",
+        "postalCode": "J4K2V1",
+        "streetAddress": "825 rue Saint-Laurent O"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 679-4558",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Longueuil/Bell-Place-Transcanada/35899": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Longueuil/Bell-Place-Transcanada/35899",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Longueuil",
+        "addressRegion": "QC",
+        "postalCode": "J4G1P1",
+        "streetAddress": "666 rue Jean-Neveu"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0830-1800",
+        "Tu 0830-1800",
+        "We 0830-1800",
+        "Th 0830-1800",
+        "Fr 0830-1800",
+        "Sa -"
+      ],
+      "phone": "450 463-7777",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Longueuil/La-Source/Z5401": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Longueuil/La-Source/Z5401",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Longueuil",
+        "addressRegion": "QC",
+        "postalCode": "J4N1P2",
+        "streetAddress": "2253 boul Roland-Therrien"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 468-5784",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Longueuil/La-Source/Z5403": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Longueuil/La-Source/Z5403",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Longueuil",
+        "addressRegion": "QC",
+        "postalCode": "J4K2V1",
+        "streetAddress": "825 rue Saint-Laurent O"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 670-0366",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Louiseville/La-Source/ZC533": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Louiseville/La-Source/ZC533",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Louiseville",
+        "addressRegion": "QC",
+        "postalCode": "J5V1K2",
+        "streetAddress": "291 av Saint-Laurent"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 1100-1700"
+      ],
+      "phone": "819 228-2364",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Magog/Bell-Galeries-Orford/FR046": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Magog/Bell-Galeries-Orford/FR046",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Magog",
+        "addressRegion": "QC",
+        "postalCode": "J1X5B4",
+        "streetAddress": "1700 rue Sherbrooke"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 847-1117",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Maniwaki/Ameublements-Branchaud/35976": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Maniwaki/Ameublements-Branchaud/35976",
+    "store": {
+      "name": "Ameublements Branchaud",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Maniwaki",
+        "addressRegion": "QC",
+        "postalCode": "J9E3A9",
+        "streetAddress": "52 Rte 105"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1800",
+        "Fr 0930-1800",
+        "Sa 1000-1600"
+      ],
+      "phone": "819 449-2610",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Maniwaki/Centre-Hi-Fi/CH067": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Maniwaki/Centre-Hi-Fi/CH067",
+    "store": {
+      "name": "Centre Hi-Fi",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Maniwaki",
+        "addressRegion": "QC",
+        "postalCode": "J9E2C9",
+        "streetAddress": "149 boul Desjardins"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2000",
+        "Fr 0930-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 441-4434",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Marieville/La-Source/ZC535": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Marieville/La-Source/ZC535",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Marieville",
+        "addressRegion": "QC",
+        "postalCode": "J3M1H1",
+        "streetAddress": "1221 rue du Pont"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 460-4804",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mascouche/La-Source/Z5503": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mascouche/La-Source/Z5503",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mascouche",
+        "addressRegion": "QC",
+        "postalCode": "J7K3B4",
+        "streetAddress": "107 Montée Masson"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-2000",
+        "Fr 1100-2000",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 966-9764",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Matane/La-Source/Z5576": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Matane/La-Source/Z5576",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Matane",
+        "addressRegion": "QC",
+        "postalCode": "G4W3W8",
+        "streetAddress": "750 av du Phare O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1730",
+        "Tu 1100-1730",
+        "We 1100-1730",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 560-1200",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mont-Laurier/Bell/BN084": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mont-Laurier/Bell/BN084",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mont-Laurier",
+        "addressRegion": "QC",
+        "postalCode": "J9L3J1",
+        "streetAddress": "939 boul Albiny-Paquette"
+      },
+      "hours": [
+        "Su 1200-1600",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 623-9464",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mont-Laurier/Centre-Hi-Fi/CH068": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mont-Laurier/Centre-Hi-Fi/CH068",
+    "store": {
+      "name": "Centre Hi-Fi",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mont-Laurier",
+        "addressRegion": "QC",
+        "postalCode": "J9R2R4",
+        "streetAddress": "358 rue du Pont"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2000",
+        "Fr 0930-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 440-4434",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mont-Laurier/GLC-Audio-Video/BN064": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mont-Laurier/GLC-Audio-Video/BN064",
+    "store": {
+      "name": "GLC Audio Vidéo",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mont-Laurier",
+        "addressRegion": "QC",
+        "postalCode": "J9L1R3",
+        "streetAddress": "249 rue de la Madone"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa -"
+      ],
+      "phone": "819 623-1330",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mont-Royal/Bell-Centre-Rockland/BC765": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mont-Royal/Bell-Centre-Rockland/BC765",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mont-Royal",
+        "addressRegion": "QC",
+        "postalCode": "H3P3E9",
+        "streetAddress": "2305 ch Rockland"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "514 340-1269",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mont-Royal/La-Source/Z5455": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mont-Royal/La-Source/Z5455",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mont-Royal",
+        "addressRegion": "QC",
+        "postalCode": "H3P3E9",
+        "streetAddress": "2305 ch Rockland"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 737-4129",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Mont-Tremblant/Bell/BE591": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Mont-Tremblant/Bell/BE591",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mont-Tremblant",
+        "addressRegion": "QC",
+        "postalCode": "J8E2Z9",
+        "streetAddress": "517 rue de St-Jovite"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "819 681-0404",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montmagny/La-Source/Z5641": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montmagny/La-Source/Z5641",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montmagny",
+        "addressRegion": "QC",
+        "postalCode": "G5V3T8",
+        "streetAddress": "101 boul Taché O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 248-4878",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal-Nord/Bell-Centre-Forest/BE062": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal-Nord/Bell-Centre-Forest/BE062",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal-Nord",
+        "addressRegion": "QC",
+        "postalCode": "H1H4A3",
+        "streetAddress": "10539 boul Pie-IX"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 327-1555",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal-Nord/Bell-Place-Bourassa/BE027": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal-Nord/Bell-Place-Bourassa/BE027",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal-Nord",
+        "addressRegion": "QC",
+        "postalCode": "H1G2T6",
+        "streetAddress": "6000 boul Henri-Bourassa E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1200-1700"
+      ],
+      "phone": "514 322-3202",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal-Nord/La-Source/Z5404": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal-Nord/La-Source/Z5404",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal-Nord",
+        "addressRegion": "QC",
+        "postalCode": "H1G2T6",
+        "streetAddress": "6000 boul Henri-Bourassa E"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1800"
+      ],
+      "phone": "514 321-0326",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/ABCO-Telecom/35911": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/ABCO-Telecom/35911",
+    "store": {
+      "name": "ABCO Télécom",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2M1R9",
+        "streetAddress": "8900 rue Lajeunesse"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa -"
+      ],
+      "phone": "514 389-8900",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell-Centre-Eaton-Kiosque/BC917": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell-Centre-Eaton-Kiosque/BC917",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3B4G5",
+        "streetAddress": "705 rue Ste-Catherine O"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "514 842-5300",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell-Decarie/35582": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell-Decarie/35582",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H4P1T8",
+        "streetAddress": "5355 rue Des Jockeys"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "514 739-7777",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell-Place-Versailles/BC703": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell-Place-Versailles/BC703",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1N1E9",
+        "streetAddress": "7275 rue Sherbrooke E"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 353-8847",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell-Plaza-Alexis-Nihon/BC220": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell-Plaza-Alexis-Nihon/BC220",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3Z1X5",
+        "streetAddress": "1500 rue Atwater"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 939-2439",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell-Plaza-Cote-Des-Neiges/BC993": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell-Plaza-Cote-Des-Neiges/BC993",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3S2B2",
+        "streetAddress": "6700 ch de la Côte-des-Neiges"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-2000",
+        "Fr 1100-1900",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 342-5444",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell/BE588": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell/BE588",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2L2E4",
+        "streetAddress": "845 rue Sainte-Catherine E"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1100-1700",
+        "Tu 1100-1700",
+        "We 1100-1700",
+        "Th 1100-1700",
+        "Fr 1100-1700",
+        "Sa -"
+      ],
+      "phone": "514 844-1313",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell/BE589": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell/BE589",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2J2K9",
+        "streetAddress": "4337 rue Saint-Denis"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "514 842-4772",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/Bell/BE607": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/Bell/BE607",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1B1C9",
+        "streetAddress": "12530 rue Sherbrooke Est"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 645-4455",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/HD-Communications/35372": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/HD-Communications/35372",
+    "store": {
+      "name": "HD Communications",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H4B1V3",
+        "streetAddress": "6855 rue St-Jacques O"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1700",
+        "Tu -",
+        "We 1000-1700",
+        "Th -",
+        "Fr 1000-1700",
+        "Sa -"
+      ],
+      "phone": "514 485-5222",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5410": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5410",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3S2B2",
+        "streetAddress": "6700 ch de la Côte-des-Neiges"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 733-5145",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5411": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5411",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2S2M5",
+        "streetAddress": "6659 rue St-Hubert"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-2000",
+        "Fr 1100-2000",
+        "Sa 1100-1800"
+      ],
+      "phone": "514 276-6324",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5418": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5418",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3Z1X5",
+        "streetAddress": "1500 av Atwater"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 932-3106",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5422": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5422",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1S2V4",
+        "streetAddress": "4154 rue Jean-Talon E"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "514 727-3852",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5427": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5427",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1W1S9",
+        "streetAddress": "3935 rue Ontario E"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 526-2453",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5433": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5433",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2J1X7",
+        "streetAddress": "1051 rue Mont Royal E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 521-1904",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5438": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5438",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H5B1B4",
+        "streetAddress": "5 Complexe Desjardins"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 288-4325",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5439": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5439",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1Y1X8",
+        "streetAddress": "3140 rue Masson"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-2000",
+        "Fr 1100-2000",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 374-3843",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5442": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5442",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2L2E2",
+        "streetAddress": "810 rue Sainte-Catherine E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-2000",
+        "Fr 1100-2000",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 845-2735",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5447": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5447",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1N1E9",
+        "streetAddress": "7275 rue Sherbrooke E"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 353-0761",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5462": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5462",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3A3J5",
+        "streetAddress": "1500 av McGill College"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 499-1614",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5468": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5468",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2C1T3",
+        "streetAddress": "1753 rue Fleury E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-2000",
+        "Fr 1100-2000",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 381-1437",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z5480": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z5480",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H3B4G5",
+        "streetAddress": "705 rue Sainte-Catherine O"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 844-9803",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Montreal/La-Source/Z7118": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Montreal/La-Source/Z7118",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H1G2T6",
+        "streetAddress": "6000 Boul Henri-Bourassa E"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "514 321-0326",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/New-Richmond/La-Source/Z5550": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/New-Richmond/La-Source/Z5550",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "New Richmond",
+        "addressRegion": "QC",
+        "postalCode": "G0C2B0",
+        "streetAddress": "122 boul Perron O"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 392-5504",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Notre-Dame-du-Nord/Roy-TV/X0098": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Notre-Dame-du-Nord/Roy-TV/X0098",
+    "store": {
+      "name": "Roy TV",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Notre-Dame-du-Nord",
+        "addressRegion": "QC",
+        "postalCode": "J0Z3B0",
+        "streetAddress": "4 rue Principale"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "819 723-2149",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Paspebiac/La-Source/ZC542": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Paspebiac/La-Source/ZC542",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Paspébiac",
+        "addressRegion": "QC",
+        "postalCode": "G0C2K0",
+        "streetAddress": "34 boul Gérard D. Levesque E"
+      },
+      "hours": [
+        "Su 1300-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 751-0007",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Pointe-Claire/Bell-Centre-Fairview-Kiosque/BC965": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Pointe-Claire/Bell-Centre-Fairview-Kiosque/BC965",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pointe-Claire",
+        "addressRegion": "QC",
+        "postalCode": "H9R5J2",
+        "streetAddress": "6801 rte Transcanadienne"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 694-2438",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Pointe-Claire/Bell-Centre-Fairview/BC430": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Pointe-Claire/Bell-Centre-Fairview/BC430",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pointe-Claire",
+        "addressRegion": "QC",
+        "postalCode": "H9R5J2",
+        "streetAddress": "6815 rte Transcanadienne"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 630-4992",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Pointe-Claire/La-Source/Z5459": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Pointe-Claire/La-Source/Z5459",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pointe-Claire",
+        "addressRegion": "QC",
+        "postalCode": "H9R5J1",
+        "streetAddress": "6815 rte Transcanadienne"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 695-2757",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Pointe-aux-Trembles/La-Source/Z5434": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Pointe-aux-Trembles/La-Source/Z5434",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pointe-aux-Trembles",
+        "addressRegion": "QC",
+        "postalCode": "H1A3W7",
+        "streetAddress": "12675 rue Sherbrooke E"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 642-5445",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Boulevard-Laurier/BE110": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Boulevard-Laurier/BE110",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1V2L8",
+        "streetAddress": "2700 boul Laurier, Niveau 2"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 651-1389",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Cineplex-Ste-Foy/BC893": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Cineplex-Ste-Foy/BC893",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G2G2B5",
+        "streetAddress": "1270 Autoroute Duplessis"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa 0900-1600"
+      ],
+      "phone": "418 864-0550",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Galeries-de-la-Capitale/BE335": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Galeries-de-la-Capitale/BE335",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G2K1N4",
+        "streetAddress": "5401 boul des Galeries"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 627-4545",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Galeries-de-la-Capitale/FR028": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Galeries-de-la-Capitale/FR028",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G2K1N4",
+        "streetAddress": "5401 boul des Galeries"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 627-2555",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-L-Ormiere/BE005": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-L-Ormiere/BE005",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1P1K6",
+        "streetAddress": "4823 boul de l'Ormière"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 1000-1600"
+      ],
+      "phone": "418 692-2020",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Louis-XIV/35A13": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Louis-XIV/35A13",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1C5Y8",
+        "streetAddress": "2384 boul Louis XIV"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa -"
+      ],
+      "phone": "418 660-9909",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Place-Fleur-de-Lys/BC848": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Place-Fleur-de-Lys/BC848",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1M2S6",
+        "streetAddress": "550 boul Wilfrid-Hamel"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 529-9292",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Place-Sainte-Foy-Laurier/BE021": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Place-Sainte-Foy-Laurier/BE021",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1V2L1",
+        "streetAddress": "2450 boul Laurier"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 651-9002",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell-Promenades-Beauport/BC907": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell-Promenades-Beauport/BC907",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1C5R9",
+        "streetAddress": "3333 rue du Carrefour, Local 34"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2000",
+        "Fr 0930-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 660-7227",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Bell/BE529": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Bell/BE529",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1N2C9",
+        "streetAddress": "1171 boul Charest"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa 1200-1700"
+      ],
+      "phone": "418 687-2121",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/Chock-Electronics/35E16": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/Chock-Electronics/35E16",
+    "store": {
+      "name": "Chock Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1J1Y4",
+        "streetAddress": "2485 boul Ste-Anne"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "418 664-1576",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5614": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5614",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G2B3Z6",
+        "streetAddress": "9550 boul de l'Ormière"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1800"
+      ],
+      "phone": "418 843-0268",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5618": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5618",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1V2L8",
+        "streetAddress": "2700 boul Laurier"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 651-7478",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5623": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5623",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1H2S5",
+        "streetAddress": "4250 1re av"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 628-4364",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5633": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5633",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1G5X1",
+        "streetAddress": "8500 boul Henri-Bourassa"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 626-1620",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5656": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5656",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1M3E4",
+        "streetAddress": "552 boul Wilfrid-Hamel"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 529-0237",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5661": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5661",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G2K1N4",
+        "streetAddress": "5401 boul des Galeries"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 627-8872",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5664": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5664",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1C5R9",
+        "streetAddress": "3333 rue du Carrefour"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 663-7404",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/La-Source/Z5682": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/La-Source/Z5682",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1R1R6",
+        "streetAddress": "1000 rue St-Jean"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 527-4487",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Quebec/la-cabine-T-sans-fil/TEB13": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Quebec/la-cabine-T-sans-fil/TEB13",
+    "store": {
+      "name": "la cabine T sans fil",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Québec",
+        "addressRegion": "QC",
+        "postalCode": "G1V2L8",
+        "streetAddress": "2700 boul Laurier"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 1200-1700"
+      ],
+      "phone": "418 653-2871",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rawdon/La-Source/Z5437": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rawdon/La-Source/Z5437",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rawdon",
+        "addressRegion": "QC",
+        "postalCode": "J0K1S0",
+        "streetAddress": "3240 1e av"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 834-4466",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Repentigny/Bell-Les-Galeries-Rive-Nord/BC450": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Repentigny/Bell-Les-Galeries-Rive-Nord/BC450",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Repentigny",
+        "addressRegion": "QC",
+        "postalCode": "J6A5N4",
+        "streetAddress": "100 boul Brien"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 657-4455",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Repentigny/Bell-Repentigny/35635": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Repentigny/Bell-Repentigny/35635",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Repentigny",
+        "addressRegion": "QC",
+        "postalCode": "J6A2R9",
+        "streetAddress": "309 rue Notre-Dame"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0830-1800",
+        "Tu 0830-1800",
+        "We 0830-1800",
+        "Th 0830-1900",
+        "Fr 0830-1900",
+        "Sa 1000-1600"
+      ],
+      "phone": "450 585-4455",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Repentigny/La-Source/Z5463": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Repentigny/La-Source/Z5463",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Repentigny",
+        "addressRegion": "QC",
+        "postalCode": "J6A5N4",
+        "streetAddress": "100 boul Brien"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 585-9498",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rimouski/BCV-Mobile/35F37": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rimouski/BCV-Mobile/35F37",
+    "store": {
+      "name": "BCV Mobile",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rimouski",
+        "addressRegion": "QC",
+        "postalCode": "G5L4B5",
+        "streetAddress": "76 rue St-Germain O"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1900",
+        "Fr 0930-1900",
+        "Sa 1200-1700"
+      ],
+      "phone": "418 723-0999",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rimouski/La-Source/Z5627": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rimouski/La-Source/Z5627",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rimouski",
+        "addressRegion": "QC",
+        "postalCode": "G5L7Y5",
+        "streetAddress": "419 boul Jessop"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 0930-1800",
+        "Th 0930-1800",
+        "Fr 0930-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 724-6302",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Riviere-Rouge/Informatique-Des-Vallees/35D17": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Riviere-Rouge/Informatique-Des-Vallees/35D17",
+    "store": {
+      "name": "Informatique Des Vallées",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rivière-Rouge",
+        "addressRegion": "QC",
+        "postalCode": "J0T1T0",
+        "streetAddress": "389 rue l'Annonciation N"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "819 275-3414",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Riviere-du-Loup/Bell-Theriault-Centre-Commercial-Riviere-du-Loup/BC847": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Riviere-du-Loup/Bell-Theriault-Centre-Commercial-Riviere-du-Loup/BC847",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rivière-du-Loup",
+        "addressRegion": "QC",
+        "postalCode": "G5R4C2",
+        "streetAddress": "298 boul Armand-Thériault"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 868-8888",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Riviere-du-Loup/La-Source/Z5650": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Riviere-du-Loup/La-Source/Z5650",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rivière-du-Loup",
+        "addressRegion": "QC",
+        "postalCode": "G5R4C2",
+        "streetAddress": "298 boul Armand-Thériault"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1800",
+        "Fr 0930-1800",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 867-1791",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Roberval/La-Source/ZC707": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Roberval/La-Source/ZC707",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Roberval",
+        "addressRegion": "QC",
+        "postalCode": "G8H3B8",
+        "streetAddress": "1221 boul Marcotte"
+      },
+      "hours": [
+        "Su 1200-1600",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1630"
+      ],
+      "phone": "418 239-0063",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rosemere/Bell-Boul-Cure-Labelle-Rosemere/BE327": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rosemere/Bell-Boul-Cure-Labelle-Rosemere/BE327",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rosemère",
+        "addressRegion": "QC",
+        "postalCode": "J7A2H4",
+        "streetAddress": "232 boul Curé-Labelle"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "450 979-3838",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rosemere/Bell-Place-Rosemere/BC782": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rosemere/Bell-Place-Rosemere/BC782",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rosemère",
+        "addressRegion": "QC",
+        "postalCode": "J7A3T2",
+        "streetAddress": "401 boul Labelle"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 435-0024",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rosemere/La-Source/Z5542": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rosemere/La-Source/Z5542",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rosemère",
+        "addressRegion": "QC",
+        "postalCode": "J7A3T2",
+        "streetAddress": "401 boul Labelle"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 430-9468",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rouyn-Noranda/Bell/BN083": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rouyn-Noranda/Bell/BN083",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rouyn-Noranda",
+        "addressRegion": "QC",
+        "postalCode": "J9X6H7",
+        "streetAddress": "100 rue du Terminus O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1700"
+      ],
+      "phone": "819 762-4481",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rouyn-Noranda/Bell/BN086": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rouyn-Noranda/Bell/BN086",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rouyn-Noranda",
+        "addressRegion": "QC",
+        "postalCode": "J9X2J8",
+        "streetAddress": "4 15e rue"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1700"
+      ],
+      "phone": "819 762-3838",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rouyn-Noranda/Communications-Pomerleau/BN079": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rouyn-Noranda/Communications-Pomerleau/BN079",
+    "store": {
+      "name": "Communications Pomerleau",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rouyn-Noranda",
+        "addressRegion": "QC",
+        "postalCode": "J9X4K9",
+        "streetAddress": "1081 av Larivière"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa -"
+      ],
+      "phone": "819 797-1532",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rouyn-Noranda/La-Source/Z5504": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rouyn-Noranda/La-Source/Z5504",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rouyn-Noranda",
+        "addressRegion": "QC",
+        "postalCode": "J9X6H7",
+        "streetAddress": "100 rue du Terminus O"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1700"
+      ],
+      "phone": "819 764-5038",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rouyn-Noranda/Les-Entreprises-B-Chouinard/BN109": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rouyn-Noranda/Les-Entreprises-B-Chouinard/BN109",
+    "store": {
+      "name": "Les Entreprises B. Chouinard",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rouyn-Noranda",
+        "addressRegion": "QC",
+        "postalCode": "J9X2R5",
+        "streetAddress": "85 rue Gamble O"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa 0930-1700"
+      ],
+      "phone": "819 762-7108",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Rouyn-Noranda/Photo-Michel-Fortin-Inc/BN101": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Rouyn-Noranda/Photo-Michel-Fortin-Inc/BN101",
+    "store": {
+      "name": "Photo Michel Fortin Inc.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Rouyn-Noranda",
+        "addressRegion": "QC",
+        "postalCode": "J9X2R4",
+        "streetAddress": "50 rue Gamble O"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1600",
+        "Tu 1000-1600",
+        "We 1000-1600",
+        "Th 1000-1600",
+        "Fr 1000-1600",
+        "Sa -"
+      ],
+      "phone": "819 762-6761",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Andre-Avellin/T-V-Gauthier-Enr/BN063": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Andre-Avellin/T-V-Gauthier-Enr/BN063",
+    "store": {
+      "name": "T.V. Gauthier Enr.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-André-Avellin",
+        "addressRegion": "QC",
+        "postalCode": "J0V1W0",
+        "streetAddress": "169 rue Principale"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa 0900-1500"
+      ],
+      "phone": "819 983-2133",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Bruno/Bell-Les-Promenades-Saint-Bruno/BC780": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Bruno/Bell-Les-Promenades-Saint-Bruno/BC780",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Bruno",
+        "addressRegion": "QC",
+        "postalCode": "J3V6A7",
+        "streetAddress": "325 boul les Promenades"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1100-1900",
+        "Tu 1100-1900",
+        "We 1100-1900",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 441-1535",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "iPad Pro",
+        "In-store repair locations",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Bruno/La-Source-Kiosque/Z7119": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Bruno/La-Source-Kiosque/Z7119",
+    "store": {
+      "name": "La Source - Kiosque",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Bruno",
+        "addressRegion": "QC",
+        "postalCode": "J3V6A8",
+        "streetAddress": "410 boul des Promenades"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "450 461-9358",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Bruno/La-Source/Z5529": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Bruno/La-Source/Z5529",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Bruno",
+        "addressRegion": "QC",
+        "postalCode": "J3V6A8",
+        "streetAddress": "410 boul des Promenades"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 653-7965",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Constant/La-Source/Z5505": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Constant/La-Source/Z5505",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Constant",
+        "addressRegion": "QC",
+        "postalCode": "J5A2S6",
+        "streetAddress": "524 Voie de la Desserte Rte132"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 635-5990",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Eustache/Bell/BE587": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Eustache/Bell/BE587",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Eustache",
+        "addressRegion": "QC",
+        "postalCode": "J7P2B1",
+        "streetAddress": "367 boul Arthur-Sauvé"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1700",
+        "Tu 1000-1700",
+        "We 1000-1700",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 623-8500",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Eustache/La-Source/Z5409": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Eustache/La-Source/Z5409",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Eustache",
+        "addressRegion": "QC",
+        "postalCode": "J7P2B1",
+        "streetAddress": "367 boul Arthur-Sauvé"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1700",
+        "Tu 1000-1700",
+        "We 1000-1700",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 473-0651",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Felicien/Bell-Saint-Felicien/BC970": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Felicien/Bell-Saint-Felicien/BC970",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Félicien",
+        "addressRegion": "QC",
+        "postalCode": "G8K3J1",
+        "streetAddress": "1179 boul Saint-Félicien"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 679-9548",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Felicien/sonxplus/SX011": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Felicien/sonxplus/SX011",
+    "store": {
+      "name": "sonxplus",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Félicien",
+        "addressRegion": "QC",
+        "postalCode": "G8K2X8",
+        "streetAddress": "1130 boul St-Félicien"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 679-5408",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Gabriel-de-Brandon/La-Source/ZC528": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Gabriel-de-Brandon/La-Source/ZC528",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Gabriel-de-Brandon",
+        "addressRegion": "QC",
+        "postalCode": "J0K2N0",
+        "streetAddress": "115 rue Beausoleil"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1730",
+        "Fr 0930-1900",
+        "Sa 0930-1600"
+      ],
+      "phone": "450 835-7455",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Georges/Bell-Carrefour-Saint-George/BC846": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Georges/Bell-Carrefour-Saint-George/BC846",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Georges",
+        "addressRegion": "QC",
+        "postalCode": "G5Y5L6",
+        "streetAddress": "8585 boul Lacroix"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 228-5521",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Georges/La-Source/Z5621": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Georges/La-Source/Z5621",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Georges",
+        "addressRegion": "QC",
+        "postalCode": "G5Y5L6",
+        "streetAddress": "8585 boul Lacroix"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 221-1238",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Hubert/Bell-Cousineau/35712": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Hubert/Bell-Cousineau/35712",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Hubert",
+        "addressRegion": "QC",
+        "postalCode": "J3Y7P5",
+        "streetAddress": "5951 boul Cousineau"
+      },
+      "hours": [
+        "Su 1000-1600",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa 0900-1600"
+      ],
+      "phone": "450 676-9919",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Hyacinthe/Bell-Galeries-Saint-Hyacinthe/BC788": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Hyacinthe/Bell-Galeries-Saint-Hyacinthe/BC788",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Hyacinthe",
+        "addressRegion": "QC",
+        "postalCode": "J2S4Z5",
+        "streetAddress": "3200 boul Laframboise"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2000",
+        "Fr 0930-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 778-1749",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Hyacinthe/La-Clef-de-Sol/CLE04": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Hyacinthe/La-Clef-de-Sol/CLE04",
+    "store": {
+      "name": "La Clef de Sol",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Hyacinthe",
+        "addressRegion": "QC",
+        "postalCode": "J2S2X2",
+        "streetAddress": "2783 rue Nichols"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1700",
+        "Fr 0930-1700",
+        "Sa 0930-1600"
+      ],
+      "phone": "450 774-7896",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Hyacinthe/La-Source/Z5502": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Hyacinthe/La-Source/Z5502",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Hyacinthe",
+        "addressRegion": "QC",
+        "postalCode": "J2S4Z5",
+        "streetAddress": "3200 boul Laframboise"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1700",
+        "Tu 1100-1700",
+        "We 1100-1700",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 773-0122",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jean-sur-Richelieu/Bell-Carrefour-Richelieu/BC520": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jean-sur-Richelieu/Bell-Carrefour-Richelieu/BC520",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jean-sur-Richelieu",
+        "addressRegion": "QC",
+        "postalCode": "J3A1M1",
+        "streetAddress": "600 rue Pierre-Caisse"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 349-4400",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "iPad Pro",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jean-sur-Richelieu/Bell-Saint-Jean-Sur-Richelieu/35441": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jean-sur-Richelieu/Bell-Saint-Jean-Sur-Richelieu/35441",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jean-sur-Richelieu",
+        "addressRegion": "QC",
+        "postalCode": "J3B8C5",
+        "streetAddress": "395 boul du Séminaire N"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 348-5210",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jean-sur-Richelieu/La-Source/Z5657": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jean-sur-Richelieu/La-Source/Z5657",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jean-sur-Richelieu",
+        "addressRegion": "QC",
+        "postalCode": "J3A1M1",
+        "streetAddress": "600 rue Pierre-Caisse"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 349-9889",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jerome/Bell/BE590": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jerome/Bell/BE590",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jérôme",
+        "addressRegion": "QC",
+        "postalCode": "J7Y3S7",
+        "streetAddress": "900 boul Grignon"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 431-3926",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jerome/La-Source/Z5519": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jerome/La-Source/Z5519",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jérôme",
+        "addressRegion": "QC",
+        "postalCode": "J7Y5K8",
+        "streetAddress": "1054 boul du Grand-Héron"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "450 432-2233",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jerome/La-Source/Z5523": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jerome/La-Source/Z5523",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jérôme",
+        "addressRegion": "QC",
+        "postalCode": "J7Y3S7",
+        "streetAddress": "900 boul Grignon"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 436-3527",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Jerome/RandD-Communications/BE069": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Jerome/RandD-Communications/BE069",
+    "store": {
+      "name": "R&D Communications",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Jérôme",
+        "addressRegion": "QC",
+        "postalCode": "J7Y1T1",
+        "streetAddress": "2121 boul Curé-Labelle"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1030-1800",
+        "Tu 1030-1800",
+        "We 1030-1800",
+        "Th 1030-1800",
+        "Fr 1030-1800",
+        "Sa 1100-1600"
+      ],
+      "phone": "450 431-5122",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Laurent/Bell-Place-Vertu/BE164": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Laurent/Bell-Place-Vertu/BE164",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Laurent",
+        "addressRegion": "QC",
+        "postalCode": "H4R1Y8",
+        "streetAddress": "3131 boul de la Côte-Vertu"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 335-2355",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Fibe TV live demo",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Laurent/La-Source/Z5451": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Laurent/La-Source/Z5451",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Laurent",
+        "addressRegion": "QC",
+        "postalCode": "H4R1Y5",
+        "streetAddress": "3131 boul de la Côte-Vertu"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1900",
+        "Fr 1100-1900",
+        "Sa 1100-1700"
+      ],
+      "phone": "514 332-2649",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Leonard/Bell-Centre-Le-Blvd/BE402": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Leonard/Bell-Centre-Le-Blvd/BE402",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Léonard",
+        "addressRegion": "QC",
+        "postalCode": "H1S1J7",
+        "streetAddress": "4270 rue Jean-Talon E"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 722-2355",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Leonard/Solumobile-and-Inc/35F42": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Leonard/Solumobile-and-Inc/35F42",
+    "store": {
+      "name": "Solumobile + Inc.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Léonard",
+        "addressRegion": "QC",
+        "postalCode": "H1S1V7",
+        "streetAddress": "7373 boul Langelier"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 256-0123",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Lin-Laurentides/Technitronique/CLE44": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Lin-Laurentides/Technitronique/CLE44",
+    "store": {
+      "name": "Technitronique",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Lin-Laurentides",
+        "addressRegion": "QC",
+        "postalCode": "J5M2V1",
+        "streetAddress": "561 rue St-Isidore"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 439-3291",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Pamphile/La-Source/ZC729": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Pamphile/La-Source/ZC729",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Pamphile",
+        "addressRegion": "QC",
+        "postalCode": "G0R3X0",
+        "streetAddress": "35 rue Principale N"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 356-3373",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Saint-Sauveur/Bell/BE592": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Saint-Sauveur/Bell/BE592",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint-Sauveur",
+        "addressRegion": "QC",
+        "postalCode": "J0R1R6",
+        "streetAddress": "153 rue Principale"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "450 240-0701",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sainte-Agathe-des-Monts/Bell/BE593": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sainte-Agathe-des-Monts/Bell/BE593",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainte-Agathe-des-Monts",
+        "addressRegion": "QC",
+        "postalCode": "J8C1K5",
+        "streetAddress": "217 rue Principale Est"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "819 321-0265",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sainte-Agathe-des-Monts/La-Source/Z5479": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sainte-Agathe-des-Monts/La-Source/Z5479",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainte-Agathe-des-Monts",
+        "addressRegion": "QC",
+        "postalCode": "J8C2V6",
+        "streetAddress": "40 boul Norbert-Morin"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 321-0243",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sainte-Anne-des-Monts/La-Source/ZC760": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sainte-Anne-des-Monts/La-Source/ZC760",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainte-Anne-des-Monts",
+        "addressRegion": "QC",
+        "postalCode": "G4V1P5",
+        "streetAddress": "11 boul Ste-Anne O"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 763-9111",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sainte-Justine/La-Source/ZC769": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sainte-Justine/La-Source/ZC769",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainte-Justine",
+        "addressRegion": "QC",
+        "postalCode": "G0R1Y0",
+        "streetAddress": "235 rue Principale"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 383-3054",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sainte-Marie/La-Source/Z5419": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sainte-Marie/La-Source/Z5419",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainte-Marie",
+        "addressRegion": "QC",
+        "postalCode": "G6E1N7",
+        "streetAddress": "1116 boul Vachon N"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1730",
+        "Tu 1100-1730",
+        "We 1100-1730",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 386-5496",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sainte-Rose/Bell/BE559": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sainte-Rose/Bell/BE559",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sainte-Rose",
+        "addressRegion": "QC",
+        "postalCode": "H7L5R7",
+        "streetAddress": "691 boul Curé-Labelle"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "450 970-3338",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Salaberry-de-Valleyfield/Bell-Centre-Commercial-Valleyfield/BC785": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Salaberry-de-Valleyfield/Bell-Centre-Commercial-Valleyfield/BC785",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Salaberry-de-Valleyfield",
+        "addressRegion": "QC",
+        "postalCode": "J6S4W4",
+        "streetAddress": "50 rue Dufferin"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1900",
+        "Fr 0930-1900",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 377-1256",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Salaberry-de-Valleyfield/Librairies-Boyer/35D27": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Salaberry-de-Valleyfield/Librairies-Boyer/35D27",
+    "store": {
+      "name": "Librairies Boyer",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Salaberry-de-Valleyfield",
+        "addressRegion": "QC",
+        "postalCode": "J6T4M2",
+        "streetAddress": "10 rue Nicholson"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1700",
+        "Tu 1000-1700",
+        "We 1000-1700",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1600"
+      ],
+      "phone": "450 373-6211",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Senneterre/stereo-and/BN093": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Senneterre/stereo-and/BN093",
+    "store": {
+      "name": "stereo +",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Senneterre",
+        "addressRegion": "QC",
+        "postalCode": "J0Y2M0",
+        "streetAddress": "712 10e av"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 0900-1300"
+      ],
+      "phone": "819 737-3003",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sept-iles/Centre-Cellulaire/BE549": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sept-iles/Centre-Cellulaire/BE549",
+    "store": {
+      "name": "Centre Cellulaire",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sept-Îles",
+        "addressRegion": "QC",
+        "postalCode": "G4R1Y5",
+        "streetAddress": "770 boul Laure"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1700"
+      ],
+      "phone": "418 960-1323",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sept-iles/La-Source/Z5655": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sept-iles/La-Source/Z5655",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sept-Îles",
+        "addressRegion": "QC",
+        "postalCode": "G4R4S6",
+        "streetAddress": "1005 boul Laure"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2000",
+        "Fr 0930-2000",
+        "Sa 0930-1700"
+      ],
+      "phone": "418 968-0654",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Shawinigan/Bell-Shawinigan/35B10": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Shawinigan/Bell-Shawinigan/35B10",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shawinigan",
+        "addressRegion": "QC",
+        "postalCode": "G9N0A2",
+        "streetAddress": "1520 rue Trudel"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1930",
+        "Fr 0930-1930",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 539-8691",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Shawinigan/La-Source/Z5508": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Shawinigan/La-Source/Z5508",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shawinigan",
+        "addressRegion": "QC",
+        "postalCode": "G9N7C1",
+        "streetAddress": "3103 boul Royal"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1730",
+        "Tu 1100-1730",
+        "We 1100-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1800"
+      ],
+      "phone": "819 539-2646",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Shawville/Wepc/BN107": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Shawville/Wepc/BN107",
+    "store": {
+      "name": "Wepc",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shawville",
+        "addressRegion": "QC",
+        "postalCode": "J0X2Y0",
+        "streetAddress": "107 av Victoria"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa -"
+      ],
+      "phone": "819 647-2233",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sherbrooke/Bell-Carrefour-de-l-Estrie-1/BC160": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sherbrooke/Bell-Carrefour-de-l-Estrie-1/BC160",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sherbrooke",
+        "addressRegion": "QC",
+        "postalCode": "J1L1K1",
+        "streetAddress": "3050 boul de Portland"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 565-1605",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sherbrooke/Bell-Sherbrooke/35B79": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sherbrooke/Bell-Sherbrooke/35B79",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sherbrooke",
+        "addressRegion": "QC",
+        "postalCode": "J1L1C5",
+        "streetAddress": "2700 rue King O"
+      },
+      "hours": [
+        "Su 1000-1600",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 823-9994",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sherbrooke/CCE-Telecom/CLE46": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sherbrooke/CCE-Telecom/CLE46",
+    "store": {
+      "name": "CCE Télécom",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sherbrooke",
+        "addressRegion": "QC",
+        "postalCode": "J1R0R8",
+        "streetAddress": "194 ch Dion"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "819 823-6666",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sherbrooke/La-Source/Z5507": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sherbrooke/La-Source/Z5507",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sherbrooke",
+        "addressRegion": "QC",
+        "postalCode": "J1E3G8",
+        "streetAddress": "900 13e av N"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "819 563-0914",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sherbrooke/La-Source/Z5510": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sherbrooke/La-Source/Z5510",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sherbrooke",
+        "addressRegion": "QC",
+        "postalCode": "J1L1K1",
+        "streetAddress": "3050 boul de Portland"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1730",
+        "Tu 1100-1730",
+        "We 1100-1730",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 563-7713",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sherbrooke/et-SANS-FIL-etc/GL237": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sherbrooke/et-SANS-FIL-etc/GL237",
+    "store": {
+      "name": "et SANS FIL etc",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sherbrooke",
+        "addressRegion": "QC",
+        "postalCode": "J1L0C8",
+        "streetAddress": "3800 Boulevard de Monseigneur-Fortier"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Sorel-Tracy/Bell/BE395": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Sorel-Tracy/Bell/BE395",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sorel-Tracy",
+        "addressRegion": "QC",
+        "postalCode": "J3P7R5",
+        "streetAddress": "450 boul Poliquin"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1730",
+        "Tu 1000-1730",
+        "We 1000-1730",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1700"
+      ],
+      "phone": "450 742-6789",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Temiscouata-sur-le-Lac/La-Source/ZC783": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Temiscouata-sur-le-Lac/La-Source/ZC783",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Témiscouata-sur-le-Lac",
+        "addressRegion": "QC",
+        "postalCode": "G0L1E0",
+        "streetAddress": "728 rue Commerciale N"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "418 854-3924",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Terrebonne/Bell-Gascon/35516": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Terrebonne/Bell-Gascon/35516",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Terrebonne",
+        "addressRegion": "QC",
+        "postalCode": "J6X2Z8",
+        "streetAddress": "1729 ch Gascon"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1700",
+        "Tu 1000-1700",
+        "We 1000-1700",
+        "Th 1000-1700",
+        "Fr 1000-1700",
+        "Sa 1000-1500"
+      ],
+      "phone": "450 964-7777",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Terrebonne/Bell-Les-Galeries-Terrebonne/FR020": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Terrebonne/Bell-Les-Galeries-Terrebonne/FR020",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Terrebonne",
+        "addressRegion": "QC",
+        "postalCode": "J6W3Z5",
+        "streetAddress": "1185 boul Moody"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "450 964-7985",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Terrebonne/Clef-de-Sol/CLE72": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Terrebonne/Clef-de-Sol/CLE72",
+    "store": {
+      "name": "Clef de Sol",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Terrebonne",
+        "addressRegion": "QC",
+        "postalCode": "J6W6H8",
+        "streetAddress": "1343 rue Nationale"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "450 961-4030",
+      "services": [
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Terrebonne/La-Source/Z5520": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Terrebonne/La-Source/Z5520",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Terrebonne",
+        "addressRegion": "QC",
+        "postalCode": "J6W3Z5",
+        "streetAddress": "1185 boul Moody"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 471-6129",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Thetford-Mines/Communications-1er-Choix/BE463": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Thetford-Mines/Communications-1er-Choix/BE463",
+    "store": {
+      "name": "Communications 1er Choix",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Thetford Mines",
+        "addressRegion": "QC",
+        "postalCode": "G6G5V9",
+        "streetAddress": "520 boul Frontenac O"
+      },
+      "hours": [
+        "Su 1200-1600",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 334-6777",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Thetford-Mines/La-Source/Z5511": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Thetford-Mines/La-Source/Z5511",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Thetford Mines",
+        "addressRegion": "QC",
+        "postalCode": "G6G6L5",
+        "streetAddress": "805 boul Frontenac E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1730",
+        "Tu 1100-1730",
+        "We 1100-1730",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "418 338-3610",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Trois-Pistoles/Gestion-B3F/35Q46": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Trois-Pistoles/Gestion-B3F/35Q46",
+    "store": {
+      "name": "Gestion B3F",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Trois-Pistoles",
+        "addressRegion": "QC",
+        "postalCode": "G0L4K0",
+        "streetAddress": "420 rue Jean Rioux"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2000",
+        "Fr 0900-2000",
+        "Sa 0900-1700"
+      ],
+      "phone": "418 851-2523",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Trois-Rivieres/Bell-Centre-Les-Rivieres/BC786": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Trois-Rivieres/Bell-Centre-Les-Rivieres/BC786",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Trois-Rivières",
+        "addressRegion": "QC",
+        "postalCode": "G8Y1W1",
+        "streetAddress": "4125 boul des Forges"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 691-0482",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Trois-Rivieres/Bell-Jean-XXIII/35281": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Trois-Rivieres/Bell-Jean-XXIII/35281",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Trois-Rivières",
+        "addressRegion": "QC",
+        "postalCode": "G8Z4B4",
+        "streetAddress": "5691 boul Jean-XXIII"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-1930",
+        "Fr 0930-1930",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 376-6849",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Trois-Rivieres/La-Source/Z5506": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Trois-Rivieres/La-Source/Z5506",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Trois-Rivières",
+        "addressRegion": "QC",
+        "postalCode": "G8Y1W2",
+        "streetAddress": "4225 boul des Forges"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "819 379-7567",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Trois-Rivieres/Marchand-Audio-Video/35D82": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Trois-Rivieres/Marchand-Audio-Video/35D82",
+    "store": {
+      "name": "Marchand Audio Vidéo",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Trois-Rivières",
+        "addressRegion": "QC",
+        "postalCode": "G8T6Y6",
+        "streetAddress": "345 boul Thibeau"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-1900",
+        "Fr 0900-1900",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 379-4366",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Val-d-Or/Bell-Carrefour-du-Nord-Ouest/BN085": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Val-d-Or/Bell-Carrefour-du-Nord-Ouest/BN085",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Val-d'Or",
+        "addressRegion": "QC",
+        "postalCode": "J9P5K1",
+        "streetAddress": "1801 3e av"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 874-3585",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Val-d-Or/Communications-Pomerleau/BN087": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Val-d-Or/Communications-Pomerleau/BN087",
+    "store": {
+      "name": "Communications Pomerleau",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Val-d'Or",
+        "addressRegion": "QC",
+        "postalCode": "J9P1V3",
+        "streetAddress": "1270 3e Av"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1700",
+        "Tu 0900-1700",
+        "We 0900-1700",
+        "Th 0900-1700",
+        "Fr 0900-1700",
+        "Sa -"
+      ],
+      "phone": "819 825-0032",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Val-d-Or/La-Source/Z5530": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Val-d-Or/La-Source/Z5530",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Val-d'Or",
+        "addressRegion": "QC",
+        "postalCode": "J9P5K1",
+        "streetAddress": "1801 3e av"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 874-0672",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Val-d-Or/Zone-Image/BN089": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Val-d-Or/Zone-Image/BN089",
+    "store": {
+      "name": "Zone Image",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Val-d'Or",
+        "addressRegion": "QC",
+        "postalCode": "J9P1T2",
+        "streetAddress": "883 3e av"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1800",
+        "Fr 0930-1800",
+        "Sa 1000-1500"
+      ],
+      "phone": "819 825-2300",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Val-d-Or/stereo-and/BN095": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Val-d-Or/stereo-and/BN095",
+    "store": {
+      "name": "stereo +",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Val-d'Or",
+        "addressRegion": "QC",
+        "postalCode": "J9P7A9",
+        "streetAddress": "1817 3e av"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1200-1700"
+      ],
+      "phone": "819 874-7997",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Vaudreuil-Dorion/Bell-De-la-Gare/BE170": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Vaudreuil-Dorion/Bell-De-la-Gare/BE170",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vaudreuil-Dorion",
+        "addressRegion": "QC",
+        "postalCode": "J7V0J5",
+        "streetAddress": "3120 boul de la Gare"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "450 455-7200",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Vaudreuil-Dorion/Bell-Harwood/BE290": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Vaudreuil-Dorion/Bell-Harwood/BE290",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Vaudreuil-Dorion",
+        "addressRegion": "QC",
+        "postalCode": "J7V1X8",
+        "streetAddress": "84 boul Harwood"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1200-1700"
+      ],
+      "phone": "450 424-1416",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Verdun/Bell/BE349": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Verdun/Bell/BE349",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Verdun",
+        "addressRegion": "QC",
+        "postalCode": "H4G1V3",
+        "streetAddress": "3972 rue Wellington"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1100-1700",
+        "Tu 1100-1700",
+        "We 1100-1700",
+        "Th 1100-1700",
+        "Fr 1100-1700",
+        "Sa -"
+      ],
+      "phone": "514 346-3555",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Verdun/La-Source/Z5416": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Verdun/La-Source/Z5416",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Verdun",
+        "addressRegion": "QC",
+        "postalCode": "H4G1V7",
+        "streetAddress": "4130 rue Wellington"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1000-2000",
+        "Fr 1000-2000",
+        "Sa 1000-1700"
+      ],
+      "phone": "514 769-2836",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Verdun/La-Source/Z5487": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Verdun/La-Source/Z5487",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Verdun",
+        "addressRegion": "QC",
+        "postalCode": "H3E3B3",
+        "streetAddress": "1 Carrefour Alexander-Graham-Bell"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "514 762-4959",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Fibe TV live demo"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Victoriaville/Bell-Victoriaville/35960": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Victoriaville/Bell-Victoriaville/35960",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Victoriaville",
+        "addressRegion": "QC",
+        "postalCode": "G6P5X6",
+        "streetAddress": "567 boul des Bois-Francs S"
+      },
+      "hours": [
+        "Su 1000-1600",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 357-7777",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone",
+        "Business: Internet + TV + Phone",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Victoriaville/La-Source/Z5517": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Victoriaville/La-Source/Z5517",
+    "store": {
+      "name": "La Source",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Victoriaville",
+        "addressRegion": "QC",
+        "postalCode": "G6S1C1",
+        "streetAddress": "1111 boul Jutras E"
+      },
+      "hours": [
+        "Su 1000-1700",
+        "Mo 0930-1730",
+        "Tu 0930-1730",
+        "We 0930-1730",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 357-4533",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Victoriaville/Telebec/BN078": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Victoriaville/Telebec/BN078",
+    "store": {
+      "name": "Télébec",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Victoriaville",
+        "addressRegion": "QC",
+        "postalCode": "G6P5X6",
+        "streetAddress": "567 boul Bois-Franc S"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 0900-1700"
+      ],
+      "phone": "819 357-7787",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/QC/Ville-Marie/Bergeron-electronique/BN092": {
+    "url": "http://storelocator.bell.ca/bellca/en/QC/Ville-Marie/Bergeron-electronique/BN092",
+    "store": {
+      "name": "Bergeron Électronique",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ville-Marie",
+        "addressRegion": "QC",
+        "postalCode": "J9V1J5",
+        "streetAddress": "26 K rue des Oblats N"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1730",
+        "Tu 0900-1730",
+        "We 0900-1730",
+        "Th 0900-1730",
+        "Fr 0900-1800",
+        "Sa 1000-1600"
+      ],
+      "phone": "819 629-3444",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV + Phone"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Assiniboia/Chabot-s-Radio-and-TV-Services/X7694": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Assiniboia/Chabot-s-Radio-and-TV-Services/X7694",
+    "store": {
+      "name": "Chabot's Radio & TV Services",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Assiniboia",
+        "addressRegion": "SK",
+        "postalCode": "S0H0B0",
+        "streetAddress": "108 Centre St"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-2100",
+        "Fr 0900-2100",
+        "Sa 1000-1700"
+      ],
+      "phone": "306 642-3302",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Bulyea/Virtual-Desktop-Corp/53T86": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Bulyea/Virtual-Desktop-Corp/53T86",
+    "store": {
+      "name": "Virtual Desktop Corp",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bulyea",
+        "addressRegion": "SK",
+        "postalCode": "S0G0L0",
+        "streetAddress": "106 Ashley St"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "306 725-3255",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Estevan/New-Image-Electronics-AVU/X8429": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Estevan/New-Image-Electronics-AVU/X8429",
+    "store": {
+      "name": "New Image Electronics AVU",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Estevan",
+        "addressRegion": "SK",
+        "postalCode": "S4A2K9",
+        "streetAddress": "501 Nesbitt Dr"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0900-1800",
+        "Tu 0900-1800",
+        "We 0900-1800",
+        "Th 0900-1800",
+        "Fr 0900-1800",
+        "Sa 0900-1730"
+      ],
+      "phone": "306 634-8813",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Humboldt/Brian-s-Electronics/X7697": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Humboldt/Brian-s-Electronics/X7697",
+    "store": {
+      "name": "Brian's Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Humboldt",
+        "addressRegion": "SK",
+        "postalCode": "S0K2A0",
+        "streetAddress": "1 Centennial Cres"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "306 231-9454",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Moose-Jaw/Bell/BE542": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Moose-Jaw/Bell/BE542",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Moose Jaw",
+        "addressRegion": "SK",
+        "postalCode": "S6H6M4",
+        "streetAddress": "1235 Main St N"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1700",
+        "Tu 1100-1700",
+        "We 1100-1700",
+        "Th 1100-1700",
+        "Fr 1100-1700",
+        "Sa 1100-1700"
+      ],
+      "phone": "306 972-2494",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Prince-Albert/Infinity-Wireless/BE616": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Prince-Albert/Infinity-Wireless/BE616",
+    "store": {
+      "name": "Infinity Wireless",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Prince Albert",
+        "addressRegion": "SK",
+        "postalCode": "S6V0C7",
+        "streetAddress": "801 15 St E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1830",
+        "Tu 1000-1830",
+        "We 1000-1830",
+        "Th 1000-1830",
+        "Fr 1000-1830",
+        "Sa 1000-1800"
+      ],
+      "phone": "306 970-3009",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Bell-Cornwall-Centre/BE260": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Bell-Cornwall-Centre/BE260",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4P0J5",
+        "streetAddress": "2102 11 Ave"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "306 779-1910",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Bell-Grasslands/BE315": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Bell-Grasslands/BE315",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4W0B7",
+        "streetAddress": "4609 Gordon Rd CRU38-2"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "306 775-1404",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Bell-Southland-Mall-Kiosk/BE186": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Bell-Southland-Mall-Kiosk/BE186",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4S6H7",
+        "streetAddress": "2965 Gordon Rd"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1800",
+        "Tu 0930-1800",
+        "We 0930-2100",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "306 586-1618",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Bell-Stockton-North/BE205": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Bell-Stockton-North/BE205",
+    "store": {
+      "name": "Feel Like Talking Connections",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4X4V3",
+        "streetAddress": "1051 Stockton St N"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1030-1900",
+        "Tu 1030-1900",
+        "We 1030-1900",
+        "Th 1030-1900",
+        "Fr 1030-1900",
+        "Sa 1100-1900"
+      ],
+      "phone": "306 569-2545",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Bell-Victoria-Square-Shopping-Centre/BE196": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Bell-Victoria-Square-Shopping-Centre/BE196",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4N6P3",
+        "streetAddress": "2223 Victoria Ave E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1800"
+      ],
+      "phone": "306 586-0515",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Feel-Like-Talking-Connections/BE200": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Feel-Like-Talking-Connections/BE200",
+    "store": {
+      "name": "Feel Like Talking Connections",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4R3C4",
+        "streetAddress": "489 Albert St N"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "306 546-1454",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Krazy-Kiley-s/X0028": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Krazy-Kiley-s/X0028",
+    "store": {
+      "name": "Krazy Kiley's",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4R1H3",
+        "streetAddress": "2220 Dewdney Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "306 352-6677",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Visions-Electronics/VIS27": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Visions-Electronics/VIS27",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4N6M5",
+        "streetAddress": "2530 Victoria Ave E"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "306 790-7755",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Regina/Visions-Electronics/VIS29": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Regina/Visions-Electronics/VIS29",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Regina",
+        "addressRegion": "SK",
+        "postalCode": "S4X4R3",
+        "streetAddress": "4425 Rochdale Blvd"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "306 586-2111",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Bell-Midtown-Plaza/BE185": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Bell-Midtown-Plaza/BE185",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7K1J9",
+        "streetAddress": "201 1 Ave S"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "306 382-3718",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Mobile Repair",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Bell-The-Centre-at-Circle-and-Eight-Street/BE248": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Bell-The-Centre-at-Circle-and-Eight-Street/BE248",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7H0W4",
+        "streetAddress": "3310 8 St E"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1800"
+      ],
+      "phone": "306 955-7590",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Corman-Park-Satellite/X0079": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Corman-Park-Satellite/X0079",
+    "store": {
+      "name": "Corman Park Satellite",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7K6Y6",
+        "streetAddress": "2750 Faithfull Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "306 242-3944",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Feel-Like-Talking-Connections/BE198": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Feel-Like-Talking-Connections/BE198",
+    "store": {
+      "name": "Feel Like Talking Connections",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7J2G2",
+        "streetAddress": "2325 Preston Ave"
+      },
+      "hours": [
+        "Su 1100-1700",
+        "Mo 0930-1800",
+        "Tu 0930-1800",
+        "We 0930-2100",
+        "Th 0930-2100",
+        "Fr 0930-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "306 373-4099",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Feel-Like-Talking-Connections/BE199": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Feel-Like-Talking-Connections/BE199",
+    "store": {
+      "name": "Feel Like Talking Connections",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7K5C7",
+        "streetAddress": "834 51 St E"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1100-1800",
+        "Tu 1100-1800",
+        "We 1100-1800",
+        "Th 1100-1800",
+        "Fr 1100-1800",
+        "Sa 1100-1700"
+      ],
+      "phone": "306 244-4405",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Geosat-Electronics-Ltd/53U59": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Geosat-Electronics-Ltd/53U59",
+    "store": {
+      "name": "Geosat Electronics Ltd",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7L6W6",
+        "streetAddress": "1620 Idylwyld Dr N"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1900",
+        "Tu 1000-1900",
+        "We 1000-1900",
+        "Th 1000-1900",
+        "Fr 1000-1900",
+        "Sa 1000-1900"
+      ],
+      "phone": "306 979-9329",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Infinity-Wireless/BE617": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Infinity-Wireless/BE617",
+    "store": {
+      "name": "Infinity Wireless",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7K1X2",
+        "streetAddress": "210 Betts Ave"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 1000-1830",
+        "Tu 1000-1830",
+        "We 1000-1830",
+        "Th 1000-1830",
+        "Fr 1000-1830",
+        "Sa 1100-1800"
+      ],
+      "phone": "306 978-2120",
+      "services": [
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Kiley-s-Electronics/X0077": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Kiley-s-Electronics/X0077",
+    "store": {
+      "name": "Kiley's Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7M1P7",
+        "streetAddress": "108 Ave D S"
+      },
+      "hours": [
+        "Su -",
+        "Mo -",
+        "Tu -",
+        "We -",
+        "Th -",
+        "Fr -",
+        "Sa -"
+      ],
+      "phone": "306 244-1300",
+      "services": [
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Panda-Mobile/BE451": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Panda-Mobile/BE451",
+    "store": {
+      "name": "Panda Mobile",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7T0G3",
+        "streetAddress": "311 Cope Lane"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1830",
+        "Tu 1000-1830",
+        "We 1000-1830",
+        "Th 1000-1830",
+        "Fr 1000-1830",
+        "Sa 1000-1800"
+      ],
+      "phone": "306 974-8883",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Saskatoon/Visions-Electronics/VIS30": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Saskatoon/Visions-Electronics/VIS30",
+    "store": {
+      "name": "Visions Electronics",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saskatoon",
+        "addressRegion": "SK",
+        "postalCode": "S7K7C3",
+        "streetAddress": "2731 Faithfull Ave"
+      },
+      "hours": [
+        "Su 1100-1800",
+        "Mo 1000-2100",
+        "Tu 1000-2100",
+        "We 1000-2100",
+        "Th 1000-2100",
+        "Fr 1000-2100",
+        "Sa 0930-1800"
+      ],
+      "phone": "306 664-3666",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Swift-Current/Bell/BE241": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Swift-Current/Bell/BE241",
+    "store": {
+      "name": "Bell",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Swift Current",
+        "addressRegion": "SK",
+        "postalCode": "S9H3X6",
+        "streetAddress": "1 Springs Dr"
+      },
+      "hours": [
+        "Su 1200-1700",
+        "Mo 0930-1800",
+        "Tu 0930-1800",
+        "We 0930-1800",
+        "Th 0930-1800",
+        "Fr 0930-1800",
+        "Sa 0930-1800"
+      ],
+      "phone": "306 773-4500",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Push-to-talk",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/SK/Yorkton/Feel-Like-talking-Connections/BE407": {
+    "url": "http://storelocator.bell.ca/bellca/en/SK/Yorkton/Feel-Like-talking-Connections/BE407",
+    "store": {
+      "name": "Feel Like talking Connections",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Yorkton",
+        "addressRegion": "SK",
+        "postalCode": "S3N4C6",
+        "streetAddress": "239 Hamilton Rd"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1000-1800",
+        "Tu 1000-1800",
+        "We 1000-1800",
+        "Th 1000-1800",
+        "Fr 1000-1800",
+        "Sa 1000-1700"
+      ],
+      "phone": "306 783-1708",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/YT/Whitehorse/Cell-Phone-Central/BE172": {
+    "url": "http://storelocator.bell.ca/bellca/en/YT/Whitehorse/Cell-Phone-Central/BE172",
+    "store": {
+      "name": "Cell Phone Central",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Whitehorse",
+        "addressRegion": "YT",
+        "postalCode": "Y1A2M8",
+        "streetAddress": "205 Black St"
+      },
+      "hours": [
+        "Su -",
+        "Mo 1100-1700",
+        "Tu 1100-1700",
+        "We 1100-1700",
+        "Th 1100-1700",
+        "Fr 1100-1700",
+        "Sa 1100-1700"
+      ],
+      "phone": "867 668-5555",
+      "services": [
+        "In-store appointments",
+        "Mobile devices for business + consumer",
+        "Residential: Internet + TV",
+        "Bell Trade-in program",
+        "Bell Stores Campaign"
+      ]
+    }
+  },
+  "http://storelocator_bell_ca/bellca/en/YT/Whitehorse/NorthwesTel/BE388": {
+    "url": "http://storelocator.bell.ca/bellca/en/YT/Whitehorse/NorthwesTel/BE388",
+    "store": {
+      "name": "NorthwesTel",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Whitehorse",
+        "addressRegion": "YT",
+        "postalCode": "Y1A1B5",
+        "streetAddress": "2093 2nd Ave"
+      },
+      "hours": [
+        "Su -",
+        "Mo 0930-1700",
+        "Tu 0930-1700",
+        "We 0930-1700",
+        "Th 0930-1700",
+        "Fr 0930-1700",
+        "Sa -"
+      ],
+      "phone": "888 423-2333",
+      "services": [
+        "Mobile devices for business + consumer"
+      ]
+    }
   }
 }
