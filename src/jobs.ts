@@ -11,12 +11,12 @@ import {
 const resolve = (pth: string) => path.resolve(__dirname, pth);
 
 export const jobs = [
-  // {
-  //   name: "bell",
-  //   sitemapPath: resolve("../data/sitemaps/bell_store_sitemap.xml"),
-  //   targetPath: resolve("../data/json/bell_stores.json"),
-  //   getStoreInfo: getStoreInfoBell,
-  // },
+  {
+    name: "bell",
+    sitemapPath: resolve("../data/sitemaps/bell_store_sitemap.xml"),
+    targetPath: resolve("../data/json/bell_stores.json"),
+    getStoreInfo: getStoreInfoBell,
+  },
   {
     name: "rogers",
     sitemapPath: resolve("../data/sitemaps/rogers_store_sitemap.xml"),

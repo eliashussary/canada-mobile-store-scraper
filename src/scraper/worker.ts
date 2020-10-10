@@ -1,22 +1,10 @@
-import { Browser } from "puppeteer";
 import fs from "fs";
 import { jobs } from "../jobs";
 import { sitemapToURLs } from "./sitemapToURLs";
 import low from "lowdb";
 import FileAsync from "lowdb/adapters/FileAsync";
 import { createLogger } from "./createLogger";
-
-const DELAY = 1000;
-
-interface MainCtx {
-  browser: Browser;
-  taskCount: number;
-  taskTotal: number;
-  log: ReturnType<typeof createLogger>;
-  increment: () => void;
-  addTasks: (total: number) => void;
-  logProgress: () => void;
-}
+import { MainCtx } from "../main";
 
 export async function prepareWorkerCTX(
   job: typeof jobs[number],
@@ -80,6 +68,6 @@ export async function worker(ctx: CTX) {
     }
 
     // @ts-ignore
-    await ctx.page.waitForTimeout(DELAY);
+    await ctx.page.waitForTimeout(ctx.main.navigationDelay);
   }
 }
