@@ -1,0 +1,7526 @@
+[
+  {
+    "LocationId": 31386,
+    "Name": "TB Bayshore Shopping Centre Kiosk 421 1169",
+    "Address": "Unit E4, 100 Bayshore Drive",
+    "Address2": null,
+    "City": "Nepean",
+    "PostalCode": "K2B8C1",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6138293490",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-75.805106",
+    "Google_Latitude": "45.349041",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Nepean",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Woodridge Crescent Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Woodridge Crescent, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31363,
+    "Name": "TB Bower Place 233 1053",
+    "Address": "Unit 188, 4900 Molly Bannister Drive",
+    "Address2": null,
+    "City": "Red Deer",
+    "PostalCode": "T4R1N9",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4033093489",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-113.806313",
+    "Google_Latitude": "52.244745",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Red Deer",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Molly Banister Drive Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Molly Banister Drive",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31553,
+    "Name": "TB Bramalea City Centre 452 1589",
+    "Address": "Unit 307, 25 Peel Centre Dr.",
+    "Address2": null,
+    "City": "Brampton",
+    "PostalCode": "L6T3R5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9057935865",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.723429",
+    "Google_Latitude": "43.717283",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Brampton",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Clark Boulevard Entrance, on the the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Clark Boulevard, au niveau supérieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31415,
+    "Name": "TB Bramalea City Centre 457 1195",
+    "Address": "Unit 141B, 25 Peel Centre Dr.",
+    "Address2": null,
+    "City": "Brampton",
+    "PostalCode": "L6T3R5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9055951015",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.723429",
+    "Google_Latitude": "43.717283",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Brampton",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Dixie Road Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Dixie Road, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31383,
+    "Name": "TB Burlington Mall Kiosk 418 1166",
+    "Address": "Unit K10, 777 Guelph Line",
+    "Address2": null,
+    "City": "Burlington",
+    "PostalCode": "L7R3N2",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9056397970",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.796239",
+    "Google_Latitude": "43.346479",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Burlington",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Prospect Street Main Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée principale Prospect Street",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31410,
+    "Name": "TB Cambridge Centre Kiosk 448 1190",
+    "Address": "Unit K114, 355 Hespeler Rd.",
+    "Address2": null,
+    "City": "Cambridge",
+    "PostalCode": "N1R6B3",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5196223480",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-80.322796",
+    "Google_Latitude": "43.392172",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Cambridge",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Dunbar Road Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Dunbar Road",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31425,
+    "Name": "TB Carrefour Angrignon Kiosk 609 1254",
+    "Address": "Unit 5470, 7077 Boul. Newman",
+    "Address2": null,
+    "City": "Lasalle",
+    "PostalCode": "H8N1X1",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5143655958",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.614415",
+    "Google_Latitude": "45.444299",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Lasalle",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rue Senkus & Rue Cordner Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Rue Senkus & Rue Cordner",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31427,
+    "Name": "TB Carrefour de L'Estrie Kiosk 611 1256",
+    "Address": "Unit B02, 3050 Portland Boulevard",
+    "Address2": null,
+    "City": "Sherbrooke",
+    "PostalCode": "J1L1K1",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "8195664616",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.952971",
+    "Google_Latitude": "45.403211",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Sherbrooke",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rue des Chênes Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Rue des Chênes",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31418,
+    "Name": "TB Carrefour du Nord Kiosk 602 1247",
+    "Address": "Unit 01350, 900 Boulevard Grignon",
+    "Address2": null,
+    "City": "Saint Jerome",
+    "PostalCode": "J7Y3S7",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4504366006",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-74.015338",
+    "Google_Latitude": "45.79338",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Saint Jerome",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Grignon Main Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée principale Boulevard Grignon",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31432,
+    "Name": "TB Carrefour Laval 627 1260",
+    "Address": "Unit A015, 3035 Boul. Le Carrefour",
+    "Address2": null,
+    "City": "Laval",
+    "PostalCode": "H7T1C8",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4506878465",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.750725",
+    "Google_Latitude": "45.567799",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Laval",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Autoroute des Laurentides Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Autoroute des Laurentides",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31407,
+    "Name": "TB Cataraqui Town Centre 445 1188",
+    "Address": "Unit L-076, 945 Gardiners Rd.",
+    "Address2": null,
+    "City": "Kingston",
+    "PostalCode": "K7M7H4",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6133898962",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-76.568857",
+    "Google_Latitude": "44.256324",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Kingston",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Gardiners Road Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Gardiners Road, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31389,
+    "Name": "TB Centerpoint Mall Kiosk 424 1172",
+    "Address": "Unit K20, 6410 Yonge St.",
+    "Address2": null,
+    "City": "Toronto",
+    "PostalCode": "M2M3X4",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6474261937",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.419422",
+    "Google_Latitude": "43.795487",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Toronto",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Yonge Street Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Yonge Street",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31421,
+    "Name": "TB Centre Eaton Montréal 605 1250",
+    "Address": "Unit 2-115A, 705 Saint Catherine Ouest",
+    "Address2": null,
+    "City": "Montréal",
+    "PostalCode": "H3B4G5",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5142822063",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-73.570221",
+    "Google_Latitude": "45.502924",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Montréal",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rue Sainte-Catherine Entrance, on the Second Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée Rue Sainte-Catherine, au deuxième étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31422,
+    "Name": "TB Centre Rockland Kiosk 606 1251",
+    "Address": "Unit K130, 2305 Chemin Rockland",
+    "Address2": null,
+    "City": "Montréal",
+    "PostalCode": "H3P3E9",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5143421944",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.648436",
+    "Google_Latitude": "45.526713",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Montréal",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Sloane Avenue Entrance, on the 2nd Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Sloane Avenue, au 2ème niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31366,
+    "Name": "TB Chinook Centre 236 1056",
+    "Address": "Unit 14, 6455 Macleod Trail SW",
+    "Address2": null,
+    "City": "Calgary",
+    "PostalCode": "T2H0K9",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4034103379",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-114.073148",
+    "Google_Latitude": "50.996067",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Calgary",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 58 Avenue Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée 58 avenue, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31393,
+    "Name": "TB Conestoga Mall 428 1176",
+    "Address": "Unit H-15, 550 King Street North",
+    "Address2": null,
+    "City": "Waterloo",
+    "PostalCode": "N2L5W6",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5193420012",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-80.529839",
+    "Google_Latitude": "43.498717",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Waterloo",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Kingscourt Drive Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Kingscourt Drive",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31550,
+    "Name": "TB Coquitlam Centre 177 1581",
+    "Address": "Unit 1125, 2929 Barnet Highway",
+    "Address2": null,
+    "City": "Coquitlam",
+    "PostalCode": "V3B5R5",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7782842570",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-122.8008677",
+    "Google_Latitude": "49.2789759",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Coquitlam",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the South Pinetree Way Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée South Pinetree Way, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31549,
+    "Name": "TB CrossIron Mills Kiosk 229 1582",
+    "Address": "Unit K06, 261055 CrossIron Blvd",
+    "Address2": null,
+    "City": "Rocky View",
+    "PostalCode": "T4A0G3",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4032262498",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-113.989739",
+    "Google_Latitude": "51.284798",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Rocky View",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Crossiron Boulevard Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Crossiron Boulevard",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31402,
+    "Name": "TB Devonshire Mall 439 1183",
+    "Address": "Unit 2, 3100 Howard Ave.",
+    "Address2": null,
+    "City": "Windsor",
+    "PostalCode": "N8X3Y8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5199694323",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-83.004827",
+    "Google_Latitude": "42.274012",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Windsor",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Sydney Avenue Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Sydney Avenue",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31379,
+    "Name": "TB Dufferin Mall 414 1162",
+    "Address": "Unit 0390, 900 Dufferin Street",
+    "Address2": null,
+    "City": "Toronto",
+    "PostalCode": "M6H4A9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6474272625",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.434356",
+    "Google_Latitude": "43.656906",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Toronto",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Dufferin Street Entrance, on the Main Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Dufferin Street, au niveau principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 62858,
+    "Name": "TB Dufferin Mall Kiosk 464 1797",
+    "Address": "Unit 4042, 900 Dufferin Street",
+    "Address2": null,
+    "City": "Toronto",
+    "PostalCode": "M6H4A9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4165399900",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.429505",
+    "Google_Latitude": "43.646019",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Toronto",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Dufferin Street Entrance, on the Main Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Dufferin Street, au niveau principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31388,
+    "Name": "TB Eastgate Square 423 1171",
+    "Address": "Unit E375, 75 Centennial Parkway N.",
+    "Address2": null,
+    "City": "Stoney Creek",
+    "PostalCode": "L8E2P2",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9055941206",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.76572",
+    "Google_Latitude": "43.224562",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Stoney Creek",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Kenora Avenue Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Kenora Avenue",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31401,
+    "Name": "TB Erin Mills Town Centre 438 1182",
+    "Address": "Unit 223, 5100 Erin Mills Parkway",
+    "Address2": null,
+    "City": "Mississauga",
+    "PostalCode": "L5M4Z5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9058209704",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.711964",
+    "Google_Latitude": "43.55892",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Mississauga",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31396,
+    "Name": "TB Fairview Mall Kiosk 433 1179",
+    "Address": "Unit 1032, 1800 Sheppard Avenue East",
+    "Address2": null,
+    "City": "Toronto",
+    "PostalCode": "M2J5A7",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4164916745",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.345461",
+    "Google_Latitude": "43.775564",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Toronto",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Fairview Mall Drive Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Fairview Mall Drive, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31390,
+    "Name": "TB Fairview Park 425 1173",
+    "Address": "Unit Z007E, 2960 Kingsway Drive",
+    "Address2": null,
+    "City": "Kitchener",
+    "PostalCode": "N2C1X1",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5198944131",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-80.44013",
+    "Google_Latitude": "43.425177",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Kitchener",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Fairway Road S Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Fairway Road S",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31420,
+    "Name": "TB Fairview Pointe Claire 604 1249",
+    "Address": "Unit C-017, 6815 Transcanadienne",
+    "Address2": null,
+    "City": "Pointe Claire",
+    "PostalCode": "H9R1C4",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5146941220",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.833295",
+    "Google_Latitude": "45.4643",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Pointe Claire",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Brunswick Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Brunswick, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31423,
+    "Name": "TB Galeries d'Anjou 607 1252",
+    "Address": "Unit R002, 7999 Boul. Galeriers d'Anjou",
+    "Address2": null,
+    "City": "Anjou",
+    "PostalCode": "H1M1W9",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5143510364",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.568845",
+    "Google_Latitude": "45.599204",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Anjou",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard des Galeries d'Anjou Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard des Galeries d'Anjou",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31428,
+    "Name": "TB Galeries de la Capitale Kiosk 612 1257",
+    "Address": "Unit K-4, 5401 Boul. des Galeries",
+    "Address2": null,
+    "City": "Quebec City",
+    "PostalCode": "G2K1N4",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4186221514",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.295272",
+    "Google_Latitude": "46.831005",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Quebec City",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Lebourgneuf Entrance, on the 1st Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Lebourgneuf, au 1er étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31433,
+    "Name": "TB Galeries Rive Nord Kiosk 640 1261",
+    "Address": "Unit K22, 100 rue Brien",
+    "Address2": null,
+    "City": "Repentigny",
+    "PostalCode": "J6A5N4",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4506575835",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.456998",
+    "Google_Latitude": "45.743936",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Repentigny",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rue de Lafayette Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Rue de Lafayette",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31399,
+    "Name": "TB Georgian Mall 436 1476",
+    "Address": "Unit B007, 509 Bayfield Street",
+    "Address2": null,
+    "City": "Barrie",
+    "PostalCode": "L4M4Z8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7057250868",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 900,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 900,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.711473",
+    "Google_Latitude": "44.414001",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Barrie",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Stanley Street Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Stanley Street, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31358,
+    "Name": "TB Guildford Town Centre 173 1049",
+    "Address": "Unit 1155,  2385 Guildford Town Centre",
+    "Address2": null,
+    "City": "Surrey",
+    "PostalCode": "V3R7C1",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6049570376",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-122.803615",
+    "Google_Latitude": "49.191658",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Surrey",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 101 Avenue Entrance, on the 1st Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée 101 Avenue, au 1er étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31566,
+    "Name": "TB Halifax Shopping Centre Kiosk 704 1588",
+    "Address": "Unit 713K, 7001 Mumford Road",
+    "Address2": null,
+    "City": "Halifax",
+    "PostalCode": "B3L4N9",
+    "ProvinceAbbrev": "NS",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9024556767",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 2000
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 2100
+      }
+    ],
+    "Google_Longitude": "-63.61972",
+    "Google_Latitude": "44.647813",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Halifax",
+      "Region": "NS"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Mumford Road Entrance, on Level 2",
+    "StoreDescriptionFr": "Situé près de l'entrée Mumford Road, au niveau 2",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 131942,
+    "Name": "TB Hillcrest Mall Kiosk 468 1861",
+    "Address": "Unit Z001C, 9350 Yonge Street",
+    "Address2": null,
+    "City": "Richmond Hill",
+    "PostalCode": "L4C5G2",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4372275198",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.4348774",
+    "Google_Latitude": "43.8548902",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Richmond Hill",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31351,
+    "Name": "TB Hillside Shopping Centre 100 1006",
+    "Address": "Unit 16, 1644 Hillside Avenue",
+    "Address2": null,
+    "City": "Victoria",
+    "PostalCode": "V8T2C5",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2503701708",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-123.334403",
+    "Google_Latitude": "48.445367",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Victoria",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Doncaster Drive Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Doncaster Drive",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31409,
+    "Name": "TB Jackson Square 447 1189",
+    "Address": "Unit 133, 2 King St. West",
+    "Address2": null,
+    "City": "Hamilton",
+    "PostalCode": "L8P1A1",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9052968374",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 930,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.823895",
+    "Google_Latitude": "43.243592",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Hamilton",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the King Street W Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée King Street W",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31373,
+    "Name": "TB Kildonan Place 287 1320",
+    "Address": "Unit T67B, 1555 Regent Ave. West",
+    "Address2": null,
+    "City": "Winnipeg",
+    "PostalCode": "R2C4J2",
+    "ProvinceAbbrev": "MB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2046689076",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1200,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1200,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1200,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1200,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1200,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1200,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-97.061916",
+    "Google_Latitude": "49.897291",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Winnipeg",
+      "Region": "MB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Regent Avenue W Main Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée principale Regent Avenue W",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31367,
+    "Name": "TB Kingsway Garden Mall 237 1057",
+    "Address": "Unit PT606, 109th St. and Princess Elizabeth Ave.",
+    "Address2": null,
+    "City": "Edmonton",
+    "PostalCode": "T5G3A6",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7804779383",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-113.592056",
+    "Google_Latitude": "53.65061",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Edmonton",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 109 Street NW Entrance, on the Main Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée 109 Street NW, à l'étage principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31567,
+    "Name": "TB Lambton Mall 456 1590",
+    "Address": "Unit 165,1380 London Road",
+    "Address2": null,
+    "City": "Sarnia",
+    "PostalCode": "N7S1P8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5195410851",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-82.353262",
+    "Google_Latitude": "42.980414",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Sarnia",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Lambton Mall Road Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Lambton Mall Road",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31568,
+    "Name": "TB Lansdowne Place Kiosk 460 1679",
+    "Address": "Unit 710K, 645 Lansdowne Street West",
+    "Address2": null,
+    "City": "Peterborough",
+    "PostalCode": "K9J7Y5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7057422296",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-78.333141",
+    "Google_Latitude": "44.284854",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Peterborough",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Borden Avenue Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Borden Avenue, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31558,
+    "Name": "TB Les Galeries Chagnon Kiosk 616 1602",
+    "Address": "Unit 3980, 1200 boul. Alphonse-Desjardins",
+    "Address2": null,
+    "City": "Levis",
+    "PostalCode": "G6V6Y8",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4188376879",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1059,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.171256",
+    "Google_Latitude": "46.798863",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Levis",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Alphonse-Desjardins Entrance, on the 2nd Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Alphonse-Desjardins, au 2ème niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31417,
+    "Name": "TB Les Promenades Gatineau Kiosk 601 1246",
+    "Address": "Unit 199K, 1100 boul. Maloney ouest",
+    "Address2": null,
+    "City": "Gatineau",
+    "PostalCode": "J8T6G3",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "8195686771",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-75.702031",
+    "Google_Latitude": "45.476323",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Gatineau",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Chemin de la Savane Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Chemin de la Savane",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31431,
+    "Name": "TB Les Rivières 624 1259",
+    "Address": "Unit H9, 4375 Boul. Des Forges",
+    "Address2": null,
+    "City": "Trois-Rivières",
+    "PostalCode": "G8Y5N9",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "8196936551",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-72.588741",
+    "Google_Latitude": "46.358353",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Trois-Rivières",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard des Forges Main Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée principale Boulevard des Forges",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31411,
+    "Name": "TB Lime Ridge Mall 449 1191",
+    "Address": "Unit 0249, 999 Upper Wentworth",
+    "Address2": null,
+    "City": "Hamilton",
+    "PostalCode": "L9A4X5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9055741367",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.823895",
+    "Google_Latitude": "43.243592",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Hamilton",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Upper Wentworth Street Main Entrance, on the 2nd Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Upper Wentworth Street, au 2ème niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31357,
+    "Name": "TB Lougheed Town Centre Kiosk 172 1048",
+    "Address": "Unit 738k, 9855 Austin Ave",
+    "Address2": null,
+    "City": "Burnaby",
+    "PostalCode": "V3J1N4",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6046772035",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-122.894882",
+    "Google_Latitude": "49.249198",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Burnaby",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Bartlett Court Entrance, on the Upper Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Bartlett Court, au niveau supérieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31543,
+    "Name": "TB Lynden Park Mall 440 1507",
+    "Address": "Unit D2A, 84 Lynden Road",
+    "Address2": null,
+    "City": "Brantford",
+    "PostalCode": "N3R6B8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5197539791",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-80.243748",
+    "Google_Latitude": "43.172899",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Brantford",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Woodyatt Drive Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Woodyatt Drive",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31394,
+    "Name": "TB Mapleview Shopping Centre Kiosk 429 1177",
+    "Address": "Unit K-8, 900 Maple Avenue",
+    "Address2": null,
+    "City": "Burlington",
+    "PostalCode": "L7S2J8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9055920079",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.819638",
+    "Google_Latitude": "43.327763",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Burlington",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Maple Avenue Entrance, on the First Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée Maple Avenue, au premier étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31398,
+    "Name": "TB Markville Shopping Centre 435 1181",
+    "Address": "Unit 131, 5000 Highway 7 E.",
+    "Address2": null,
+    "City": "Markham",
+    "PostalCode": "L3R4M9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9059479862",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 2000
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 2000
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 2000
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 2000
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 2000
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.291992",
+    "Google_Latitude": "43.865745",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Markham",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Highway 7 Entrance, on the 2nd Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Highway 7, au 2ème niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31403,
+    "Name": "TB Masonville Place 441 1184",
+    "Address": "Unit L-062, 1680 Richmond St. N.",
+    "Address2": null,
+    "City": "London",
+    "PostalCode": "N6G3Y9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5196457338",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-81.281724",
+    "Google_Latitude": "43.025202",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "London",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Fanshawe Park Road E Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Fanshawe Park Road E, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31353,
+    "Name": "TB Mayfair Shopping Centre Kiosk 102 1469",
+    "Address": "Unit K02, 3147 Douglas Street",
+    "Address2": null,
+    "City": "Victoria",
+    "PostalCode": "V8Z6E3",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2503804679",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-123.371484",
+    "Google_Latitude": "48.446393",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Victoria",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Douglas Street Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Douglas Street",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31438,
+    "Name": "TB McAllister Place 702 1266",
+    "Address": "Unit G-45, 519 Westmorland Road",
+    "Address2": null,
+    "City": "Saint John",
+    "PostalCode": "E2J3W9",
+    "ProvinceAbbrev": "NB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5066961125",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-66.016149",
+    "Google_Latitude": "45.309732",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Saint John",
+      "Region": "NB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Westmorland Road Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Westmorland Road",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31360,
+    "Name": "TB Medicine Hat Mall Kiosk 230 1051",
+    "Address": "Unit 138, 3292 Dunmore Road SE",
+    "Address2": null,
+    "City": "Medicine Hat",
+    "PostalCode": "T1B2R4",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4035276556",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-110.646785",
+    "Google_Latitude": "50.006759",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Medicine Hat",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Trans Canada Way SE Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Trans Canada Way SE",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31598,
+    "Name": "TB Metropolis at Metrotown 146 1794",
+    "Address": "Unit 363, 4820 Kingsway",
+    "Address2": null,
+    "City": "Burnaby",
+    "PostalCode": "V5H4P1",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6042353384",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-122.996988",
+    "Google_Latitude": "49.227673",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Burnaby",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Nelson Avenue Entrance, on the Upper Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Nelson Avenue, au niveau supérieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31439,
+    "Name": "TB Mic Mac Mall 703 1478",
+    "Address": "Unit 164, 21 Mic Mac Blvd",
+    "Address2": null,
+    "City": "Dartmouth",
+    "PostalCode": "B3A4N3",
+    "ProvinceAbbrev": "NS",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9024664021",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 2100
+      }
+    ],
+    "Google_Longitude": "-63.558822",
+    "Google_Latitude": "44.684296",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Dartmouth",
+      "Region": "NS"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Micmac Boulevard Entrance, on the First Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée Micmac Boulevard, au premier étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31372,
+    "Name": "TB Midtown Plaza Kiosk 283 1473",
+    "Address": "Unit 717, 201 1st Ave South",
+    "Address2": null,
+    "City": "Saskatoon",
+    "PostalCode": "S7K1J5",
+    "ProvinceAbbrev": "SK",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "3063734014",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-106.666447",
+    "Google_Latitude": "52.127465",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Saskatoon",
+      "Region": "SK"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 1 Avenue S Entrance, on the Main Level",
+    "StoreDescriptionFr": "Situé près de l'entrée 1 Avenue S, au niveau principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31595,
+    "Name": "TB New Sudbury Centre Kiosk 463 1774",
+    "Address": "Unit Z005A, 1349 Lasalle Road",
+    "Address2": null,
+    "City": "Sudbury",
+    "PostalCode": "P3A1Z2",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7055609292",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-80.981024",
+    "Google_Latitude": "46.519157",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Sudbury",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Lasalle Boulevard Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Lasalle Boulevard, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31586,
+    "Name": "TB Northgate Shopping Centre 462 1690",
+    "Address": "Unit 108A, 1500 Fisher St",
+    "Address2": null,
+    "City": "North Bay",
+    "PostalCode": "P1B2H3",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7054760969",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.44264",
+    "Google_Latitude": "46.312918",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "North Bay",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Fisher Street Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Fisher Street, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31554,
+    "Name": "TB Oakville Place Kiosk 453 1605",
+    "Address": "Unit K10, 240 Leighland Ave.",
+    "Address2": null,
+    "City": "Oakville",
+    "PostalCode": "L6H3H6",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9058496935",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.694018",
+    "Google_Latitude": "43.457385",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Oakville",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located on the Lower Level (L1)",
+    "StoreDescriptionFr": "Situé au niveau inférieur (L1)",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31534,
+    "Name": "TB Orchard Park Mall 138 1488",
+    "Address": "Unit 1599, 2271 Harvey Ave",
+    "Address2": null,
+    "City": "Kelowna",
+    "PostalCode": "V1Y6H2",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2507632616",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1200,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-119.437642",
+    "Google_Latitude": "49.881811",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Kelowna",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Springfield Road Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Springfield Road",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31545,
+    "Name": "TB Oshawa Centre 430 1508",
+    "Address": "Unit 2265, 419 King Street West",
+    "Address2": null,
+    "City": "Oshawa",
+    "PostalCode": "L1J2K5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9057250233",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-78.879105",
+    "Google_Latitude": "43.89389",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Oshawa",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Stevenson Road S Entrance, on the Main Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Stevenson Road S, au niveau principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31361,
+    "Name": "TB Park Place Mall Kiosk 231 1321",
+    "Address": "Unit Z03, 501 1 Avenue South",
+    "Address2": null,
+    "City": "Lethbridge",
+    "PostalCode": "T1J4L9",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4033275047",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-112.840253",
+    "Google_Latitude": "49.698021",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Lethbridge",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 1 Avenue S Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée 1 Avenue S",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 137325,
+    "Name": "TB Pickering Town Centre Kiosk 469 1862",
+    "Address": "Unit 224K , 1355 Kingston Road",
+    "Address2": null,
+    "City": "Pickering",
+    "PostalCode": "L1V1B8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9054203602",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.086042",
+    "Google_Latitude": "43.836186",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Pickering",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31412,
+    "Name": "TB Place d'Orleans Kiosk 450 1192",
+    "Address": "Unit 4900, 110 Place d'Orleans Drive",
+    "Address2": null,
+    "City": "Orleans",
+    "PostalCode": "K1C2L9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6138304407",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-75.517233",
+    "Google_Latitude": "45.47936",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Orleans",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Champlain Street Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Champlain Street, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31430,
+    "Name": "TB Place du Royaume Kiosk 614 1306",
+    "Address": "Unit 0718K, 1401 Boulevard Talbot",
+    "Address2": null,
+    "City": "Chicoutimi",
+    "PostalCode": "G7H5N6",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4185438198",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.057811",
+    "Google_Latitude": "48.404975",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Chicoutimi",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Talbot Main Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée principale Boulevard Talbot",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31426,
+    "Name": "TB Place Fleur de Lys 610 1255",
+    "Address": "Unit L-14, 550 Boul. Wilfrid Hamel",
+    "Address2": null,
+    "City": "Quebec City",
+    "PostalCode": "G1M2S6",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4185297498",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.250409",
+    "Google_Latitude": "46.824949",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Quebec City",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rue Hubert Entrance (Entrance 5)",
+    "StoreDescriptionFr": "Situé près de l'entrée Rue Hubert (Entrée No. 5)",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31429,
+    "Name": "TB Place Laurier 613 1258",
+    "Address": "Unit 0439, 2700 Boul. Laurier",
+    "Address2": null,
+    "City": "Quebec City",
+    "PostalCode": "G1V2L8",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4186532871",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.284021",
+    "Google_Latitude": "46.769687",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Quebec City",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Laurier Entrance, on the 1st Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Laurier, au 1er étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 113539,
+    "Name": "TB Place Laurier Kiosk 617 1834",
+    "Address": "Unit 4214, 2700 Boulevard Laurier",
+    "Address2": null,
+    "City": "Quebec City",
+    "PostalCode": "G1V2L8",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4186576195",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 0,
+        "Close": 0
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 0,
+        "Close": 0
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 0,
+        "Close": 0
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 0,
+        "Close": 0
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 0,
+        "Close": 0
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 0,
+        "Close": 0
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 0,
+        "Close": 0
+      }
+    ],
+    "Google_Longitude": "-71.284645",
+    "Google_Latitude": "46.770007",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Quebec City",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Laurier Entrance, On the 1st Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Laurier, au 1er étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31434,
+    "Name": "TB Place Rosemère 652 1262",
+    "Address": "Unit A22, 401 Boul. Labelle",
+    "Address2": null,
+    "City": "Rosemère",
+    "PostalCode": "J7A3T2",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4504377984",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.817117",
+    "Google_Latitude": "45.632849",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Rosemère",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Bouthillier Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Bouthillier",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 125572,
+    "Name": "TB Place St. Foy 619 1852",
+    "Address": "Unit 110B, 2450 Boulevard Laurier",
+    "Address2": null,
+    "City": "Quebec City",
+    "PostalCode": "G1V2L1",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4186513920",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-71.2790953",
+    "Google_Latitude": "46.7735879",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Quebec City",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31424,
+    "Name": "TB Place Vertu 608 1253",
+    "Address": "Unit C2, 3131 Chemin Cote Vertu",
+    "Address2": null,
+    "City": "St-Laurent",
+    "PostalCode": "H4R1Y8",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5143338166",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.704006",
+    "Google_Latitude": "45.49745",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "St-Laurent",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rue Beaulac Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Rue Beaulac",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31374,
+    "Name": "TB Polo Park Kiosk 289 1472",
+    "Address": "Unit Z007, 1485 Portage Ave",
+    "Address2": null,
+    "City": "Winnipeg",
+    "PostalCode": "R3G0W4",
+    "ProvinceAbbrev": "MB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2047868808",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-97.19802",
+    "Google_Latitude": "49.88106",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Winnipeg",
+      "Region": "MB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the St. James Street Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée St. James Street, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31381,
+    "Name": "TB Promenade Shopping Centre 416 1164",
+    "Address": "Unit 129, 1 Promenade Circle",
+    "Address2": null,
+    "City": "Thornhill",
+    "PostalCode": "L4J4P8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9057319157",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.452566",
+    "Google_Latitude": "43.809357",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Thornhill",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Centre Street Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Centre Street, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31557,
+    "Name": "TB Promenades Drummondville Kiosk 615 1601",
+    "Address": "Unit 3040,755 Rene-Levesque Boulevard",
+    "Address2": null,
+    "City": "Drummondville",
+    "PostalCode": "J2C6Y7",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "8194776096",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 930,
+        "Close": 1730
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 900,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-72.51678",
+    "Google_Latitude": "45.898145",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Drummondville",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Boulevard Rene-Levesque Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Boulevard Rene-Levesque",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 117673,
+    "Name": "TB Promenades St. Bruno Kiosk 618 1853",
+    "Address": "Unit 313A, 1 Boulevard Des Promenades",
+    "Address2": null,
+    "City": "St. Bruno",
+    "PostalCode": "J3V5J5",
+    "ProvinceAbbrev": "QC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4504611948",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-73.377237",
+    "Google_Latitude": "45.50523",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "St. Bruno",
+      "Region": "QC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31377,
+    "Name": "TB Quinte Mall Kiosk 412 1160",
+    "Address": "Unit K4A, 390 North Front St.",
+    "Address2": null,
+    "City": "Belleville",
+    "PostalCode": "K8P3E1",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6132109978",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-77.396507",
+    "Google_Latitude": "44.188327",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Belleville",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the N Front Street Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée N Front Street",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31437,
+    "Name": "TB Regent Mall 701 1265",
+    "Address": "Unit Z032, 1381 Regent Street",
+    "Address2": null,
+    "City": "Fredericton",
+    "PostalCode": "E3C1A2",
+    "ProvinceAbbrev": "NB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5064547591",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-66.662957",
+    "Google_Latitude": "45.93321",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Fredericton",
+      "Region": "NB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Arnold Drive Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Arnold Drive",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 135931,
+    "Name": "TB Richmond Centre 180 1860",
+    "Address": "Unit 1824, 6551 No. 3 Road",
+    "Address2": null,
+    "City": "Richmond",
+    "PostalCode": "V6Y2B6",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6043046294",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1000,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-123.136643",
+    "Google_Latitude": "49.166462",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Richmond",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31376,
+    "Name": "TB Rideau Centre Kiosk 411 1159",
+    "Address": "Unit KR-01, 50 Rideau St.",
+    "Address2": null,
+    "City": "Ottawa",
+    "PostalCode": "K1N9J7",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6132338808",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-75.692331",
+    "Google_Latitude": "45.425808",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Ottawa",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rideau Street Entrance, on the 2nd Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Rideau Street, au 2ème niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31395,
+    "Name": "TB Scarborough Town Centre 432 1178",
+    "Address": "Unit 758, 300 Borough Dr.",
+    "Address2": null,
+    "City": "Scarborough",
+    "PostalCode": "M1P4P5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4162900410",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.254592",
+    "Google_Latitude": "43.775804",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Scarborough",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the McCowan Road Entrance, on the Upper Level",
+    "StoreDescriptionFr": "Situé près de l'entrée McCowan Road, au niveau supérieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31555,
+    "Name": "TB Sevenoaks Shopping Centre 142 1587",
+    "Address": "Unit 321, 32900 South Fraser Way",
+    "Address2": null,
+    "City": "Abbotsford",
+    "PostalCode": "V2S5A1",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6048501337",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-122.311849",
+    "Google_Latitude": "49.050798",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Abbotsford",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Mill Lake Road Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Mill Lake Road",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31387,
+    "Name": "TB Sherway Gardens Kiosk 422 1170",
+    "Address": "Unit Z-1516, 25 The West Mall",
+    "Address2": null,
+    "City": "Etobicoke",
+    "PostalCode": "M9C1B8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4166200404",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.561132",
+    "Google_Latitude": "43.610311",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Etobicoke",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Evans Avenue Entrance, on the Main Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Evans Avenue, au niveau principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31573,
+    "Name": "TB Shoppers World Brampton 461 1684",
+    "Address": "Unit 22, 499 Main Street South",
+    "Address2": null,
+    "City": "Brampton",
+    "PostalCode": "L6Y1N7",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9054597992",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.733252",
+    "Google_Latitude": "43.666397",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Brampton",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Main Street S Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Main Street S",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31378,
+    "Name": "TB Square One - Upper Kiosk 413 1161",
+    "Address": "Unit 2-K26, 100 City Centre Drive",
+    "Address2": null,
+    "City": "Mississauga",
+    "PostalCode": "L5B2C9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9052900402",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.643225",
+    "Google_Latitude": "43.588986",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Mississauga",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the City Centre Drive Main Entrance, on Level 2",
+    "StoreDescriptionFr": "Situé près de l'entrée principale City Centre Drive, au niveau 2",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31397,
+    "Name": "TB Square One 434 1180",
+    "Address": "Unit 1 - 149, 100 City Centre Dr.",
+    "Address2": null,
+    "City": "Mississauga",
+    "PostalCode": "L5B1M7",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9058041995",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.643225",
+    "Google_Latitude": "43.588986",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Mississauga",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Duke of York Boulevard Entrance, on Level 1",
+    "StoreDescriptionFr": "Situé près de l'entrée Duke of York Boulevard, au niveau 1",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31391,
+    "Name": "TB St. Laurent Centre 426 1174",
+    "Address": "Unit G237, 1200 St. Laurent Blvd.",
+    "Address2": null,
+    "City": "Ottawa",
+    "PostalCode": "K1K3B8",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6137454426",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-75.637071",
+    "Google_Latitude": "45.423617",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Ottawa",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the St. Laurent Boulevard Entrance, on the Ground Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée St. Laurent Boulevard, au rez-de-chaussée",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31375,
+    "Name": "TB St. Vital Centre 291 1094",
+    "Address": "Unit 128, 1225 St. Mary's Road",
+    "Address2": null,
+    "City": "Winnipeg",
+    "PostalCode": "R2M5E5",
+    "ProvinceAbbrev": "MB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2042530531",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-97.11463",
+    "Google_Latitude": "49.828324",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Winnipeg",
+      "Region": "MB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Bishop Grandin Boulevard Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Bishop Grandin Boulevard",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31547,
+    "Name": "TB Station Mall 459 1577",
+    "Address": "Unit M6, 293 Bay Street",
+    "Address2": null,
+    "City": "Sault Ste. Marie",
+    "PostalCode": "P6A1X3",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7057592572",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 930,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-84.339048",
+    "Google_Latitude": "46.514064",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Sault Ste. Marie",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the St. Mary River Drive Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée St. Mary River Drive",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31392,
+    "Name": "TB Stone Road Mall 427 1175",
+    "Address": "Unit Z3, 435 Stone Road West",
+    "Address2": null,
+    "City": "Guelph",
+    "PostalCode": "N1G2X6",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5198378097",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 2100
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-80.237821",
+    "Google_Latitude": "43.517057",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Guelph",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Stone Road W Entrance, on the Main Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Stone Road W, au niveau principal",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31364,
+    "Name": "TB Sunridge Mall 234 1054",
+    "Address": "Unit 271-A, 2525-36th St. NE",
+    "Address2": null,
+    "City": "Calgary",
+    "PostalCode": "T1Y5T4",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4032858383",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1200,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1200,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-113.982082",
+    "Google_Latitude": "51.074052",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Calgary",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 36 Street NE Entrance, on the Upper Level",
+    "StoreDescriptionFr": "Situé près de l'entrée 36 Street NE, au niveau supérieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31541,
+    "Name": "TB The Bay Centre Kiosk 103 1504",
+    "Address": "Unit Z109, 1150 Douglas Street",
+    "Address2": null,
+    "City": "Victoria",
+    "PostalCode": "V8W3M9",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2503823133",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1700
+      }
+    ],
+    "Google_Longitude": "-123.365461",
+    "Google_Latitude": "48.424978",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Victoria",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Fort Street Entrance, on the 1st Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Fort Street, au 1er niveau",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31414,
+    "Name": "TB The Pen Centre 455 1194",
+    "Address": "Unit 110, 221 Glendale Ave.",
+    "Address2": null,
+    "City": "St. Catharines",
+    "PostalCode": "L2T2K9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9053460315",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.22431",
+    "Google_Latitude": "43.133638",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "St. Catharines",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Glendale Avenue Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Glendale Avenue",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31380,
+    "Name": "TB Toronto Eaton Centre 415 1163",
+    "Address": "Unit H020,  218 Yonge St.",
+    "Address2": null,
+    "City": "Toronto",
+    "PostalCode": "M5B2H6",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4162171110",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.379725",
+    "Google_Latitude": "43.653142",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Toronto",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Yonge Street Entrance, on Level 1",
+    "StoreDescriptionFr": "Situé près de l'entrée Yonge Street, au niveau 1",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31382,
+    "Name": "TB Upper Canada Mall 417 1165",
+    "Address": "Unit E17, 17600 Yonge St.",
+    "Address2": null,
+    "City": "New Market",
+    "PostalCode": "L3Y4Z1",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9058984801",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.480508",
+    "Google_Latitude": "44.054918",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "New Market",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Davis Drive W Entrance, on the Lower Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Davis Drive W, au niveau inférieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31416,
+    "Name": "TB Vaughan Mills Kiosk 458 1196",
+    "Address": "Unit K-15, 1 Bass Pro Mills Dr.",
+    "Address2": null,
+    "City": "Vaughan",
+    "PostalCode": "L4K5W4",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "9057611697",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-79.533314",
+    "Google_Latitude": "43.82288",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Vaughan",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rutherford Road Entrance (Entrance 3)",
+    "StoreDescriptionFr": "Situé près de l'entrée Rutherford Road (Entrée No. 3)",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31369,
+    "Name": "TB West Edmonton Mall Kiosk 260 1302",
+    "Address": "Unit X-338, 8882 170 Street",
+    "Address2": null,
+    "City": "Edmonton",
+    "PostalCode": "T5T4J2",
+    "ProvinceAbbrev": "AB",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "7804846476",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 2100
+      }
+    ],
+    "Google_Longitude": "-113.615588",
+    "Google_Latitude": "53.52298",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Edmonton",
+      "Region": "AB"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the 87 Avenue Entrance, on the 2nd Floor",
+    "StoreDescriptionFr": "Situé près de l'entrée 87 avenue, au 2ème étage",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31406,
+    "Name": "TB White Oaks Mall 444 1187",
+    "Address": "Unit 431, 1105 Wellington Road",
+    "Address2": null,
+    "City": "London",
+    "PostalCode": "N6E1V4",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "5196862952",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-81.22157",
+    "Google_Latitude": "42.931592",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "London",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Jalna Boulevard Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Jalna Boulevard",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31540,
+    "Name": "TB Willowbrook Shopping Centre 141 1502",
+    "Address": "Unit 433, 19705 Fraser Highway",
+    "Address2": null,
+    "City": "Langley",
+    "PostalCode": "V3A7E9",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "6045328345",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-122.673951",
+    "Google_Latitude": "49.11443",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Langley",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "",
+    "StoreDescriptionFr": "",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31413,
+    "Name": "TB Woodbine Centre 454 1193",
+    "Address": "Unit 321, 500 Rexdale Boulevard",
+    "Address2": null,
+    "City": "Etobicoke",
+    "PostalCode": "M9W6K5",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4166759969",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.596986",
+    "Google_Latitude": "43.717794",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Etobicoke",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Rexdale Boulevard Entrance, on the Upper Level",
+    "StoreDescriptionFr": "Situé près de l'entrée Rexdale Boulevard, au niveau supérieur",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 31352,
+    "Name": "TB Woodgrove Centre 101 1301",
+    "Address": "Unit 90, 6631 North Island Hwy",
+    "Address2": null,
+    "City": "Nanaimo",
+    "PostalCode": "V9T4T7",
+    "ProvinceAbbrev": "BC",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "2503900328",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1700
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1000,
+        "Close": 1800
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1000,
+        "Close": 1800
+      }
+    ],
+    "Google_Longitude": "-124.046397",
+    "Google_Latitude": "49.236471",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Nanaimo",
+      "Region": "BC"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": "Located near the Aulds Road Entrance",
+    "StoreDescriptionFr": "Situé près de l'entrée Aulds Road",
+    "ServicesOffered": null,
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  },
+  {
+    "LocationId": 184401,
+    "Name": "TB Yorkdale Shopping Centre 470 1869",
+    "Address": "Unit 303A, 3401 Dufferin Street",
+    "Address2": null,
+    "City": "Toronto",
+    "PostalCode": "M6A2T9",
+    "ProvinceAbbrev": "ON",
+    "CountryCode": "CA",
+    "CountryName": "Canada",
+    "Phone": "4168470010",
+    "Fax": null,
+    "Email": null,
+    "HoursOfOperation": [
+      {
+        "DayOfWeek": "Sunday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Monday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Tuesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Wednesday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Thursday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Friday",
+        "Open": 1100,
+        "Close": 1900
+      },
+      {
+        "DayOfWeek": "Saturday",
+        "Open": 1100,
+        "Close": 1900
+      }
+    ],
+    "Google_Longitude": "-79.451469",
+    "Google_Latitude": "43.726078",
+    "Geography": {
+      "Latitude": 0,
+      "Longitude": 0
+    },
+    "Position": {
+      "Latitude": 0,
+      "Longitude": 0,
+      "City": "Toronto",
+      "Region": "ON"
+    },
+    "DisplayName": null,
+    "StoreDescriptionEn": null,
+    "StoreDescriptionFr": null,
+    "ServicesOffered": [],
+    "Manager": null,
+    "YelpUrl": null,
+    "FacebookUrl": null,
+    "GoogleUrl": null,
+    "InstagramUrl": null,
+    "LinkedinUrl": null,
+    "TwitterUrl": null,
+    "StoreImageAmsId": null,
+    "StoreImageAssetString": null
+  }
+]
